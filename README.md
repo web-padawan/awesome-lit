@@ -2,6 +2,8 @@
 
 > A curated list of awesome lit-html resources.
 
+lit-html — an efficient, expressive, extensible HTML templating library for JavaScript.
+
 ## Contents
 
 - [General resources](#general-resources)
