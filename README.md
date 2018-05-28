@@ -33,6 +33,7 @@ Sorted by creation date (oldest first).
 - [fabys-lit-element](https://github.com/fabysdev/fabys-lit-element)
 - [@littleq/element-lite](https://github.com/tjmonsi/element-lite)
 - [@corpuscule/element](https://github.com/corpusculejs/corpuscule)
+- [@dabolus/localized-lit-element](https://github.com/Dabolus/localized-lit-element)
 - [lit-apollo](https://github.com/bennypowers/lit-apollo)
 
 ## Components
