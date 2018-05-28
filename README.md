@@ -9,6 +9,7 @@ lit-html — an efficient, expressive, extensible HTML templating library for Ja
 - [General resources](#general-resources)
 - [Implementations](#implementations)
 - [Components](#components)
+- [Starter Templates](#starter-templates)
 - [IDE Plugins](#ide-plugins)
 - [Tools](#tools)
 - [Tutorials](#tutorials)
@@ -40,6 +41,10 @@ Sorted by creation date (oldest first).
 
 - [Material Web Components](https://github.com/material-components/material-components-web-components)
 - [Wired Elements](https://github.com/wiredjs/wired-elements)
+
+## Starter Templates
+
+- [PWA Starter Kit](https://github.com/Polymer/pwa-starter-kit)
 
 ## IDE Plugins
 
