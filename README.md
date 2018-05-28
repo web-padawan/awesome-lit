@@ -12,6 +12,7 @@
 - [Tutorials](#tutorials)
 - [Videos](#videos)
 - [Blogs](#blogs)
+- [Inspired Solutions](#inspired-solutions)
 
 ## General resources
 
@@ -60,6 +61,14 @@ Sorted by creation date (oldest first).
 ## Blogs
 - [A bit about lit-html rendering](https://medium.com/@kennethrohde/a-bit-about-lit-html-rendering-2964c50ee56c)
 - [Building a chat with Twilio, lit-html, Parcel and TypeScript](https://www.twilio.com/blog/2018/05/building-a-chat-with-twilio-lit-html-parcel-and-typescript.html)
+
+## Inspired Solutions
+
+These libraries do not depend on lit-html, but are inspired by some of its concepts. They also use `html` tagged
+template literal, and leverage the benefits of the same [IDE Plugins](#ide-plugins) for syntax highlighting.
+
+- [hybrids](https://github.com/hybridsjs/hybrids), UI library for creating Web Components with simple and functional API.
+- [lit-ntml](https://github.com/motss/lit-ntml), lightweight and modern templating for SSR in Node.js, inspired by lit-html.
 
 ## Other awesome resources
 **If you want more awesome resources, check the [awesome](https://github.com/sindresorhus/awesome) list!**
