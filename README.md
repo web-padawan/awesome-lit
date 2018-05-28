@@ -28,8 +28,8 @@ Sorted by creation date (oldest first).
 - [fit-html](https://github.com/Festify/fit-html)
 - [lit-html-brackets](https://github.com/bgotink/lit-html-brackets)
 - [fabys-lit-element](https://github.com/fabysdev/fabys-lit-element)
-- [element-lite](https://github.com/tjmonsi/element-lite)
-- [corpuscule](https://github.com/corpusculejs/corpuscule)
+- [@littleq/element-lite](https://github.com/tjmonsi/element-lite)
+- [@corpuscule/element](https://github.com/corpusculejs/corpuscule)
 - [lit-apollo](https://github.com/bennypowers/lit-apollo)
 
 ## Components
