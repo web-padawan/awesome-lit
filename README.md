@@ -27,6 +27,7 @@ lit-html — an efficient, expressive, extensible HTML templating library for Ja
 
 Sorted by creation date (oldest first).
 
+- [gluon](https://github.com/ruphin/gluonjs)
 - [@polymer/lit-element](https://github.com/Polymer/lit-element)
 - [lit-element](https://github.com/DiiLord/lit-element)
 - [lit-html-element](https://github.com/kenchris/lit-element)
