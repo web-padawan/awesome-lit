@@ -14,6 +14,7 @@ lit-html — an efficient, expressive, extensible HTML templating library for Ja
 - [Tools](#tools)
 - [Tutorials](#tutorials)
 - [Videos](#videos)
+- [Podcasts](#podcasts)
 - [Blogs](#blogs)
 - [Inspired Solutions](#inspired-solutions)
 
@@ -65,6 +66,10 @@ Sorted by creation date (oldest first).
 - [Efficient, Expressive, and Extensible HTML Templates (Polymer Summit 2017)](https://www.youtube.com/watch?v=ruql541T7gc)
 - [lit-HTML (Chrome Dev Summit 2017)](https://www.youtube.com/watch?v=Io6JjgckHbg)
 - [VDOM vs lit-html - HTTP203](https://www.youtube.com/watch?v=uCHZJy2n8Qs)
+
+## Podcasts
+- [The Web Platform Podcast 159: lit-html - HTML Templates via JavaScript Template Literals](https://thewebplatformpodcast.com/159-lithtml-html-templates-via-javascript-template-literals),
+an episode with the lit-html creator Justin Fagnani.
 
 ## Blogs
 - [A bit about lit-html rendering](https://medium.com/@kennethrohde/a-bit-about-lit-html-rendering-2964c50ee56c)
