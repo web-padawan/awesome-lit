@@ -55,6 +55,8 @@ Sorted by creation date (oldest first).
 
 ## Tools
 
+- [babel-plugin-template-html-minifier](https://github.com/goto-bus-stop/babel-plugin-template-html-minifier), a Babel plugin for minifying
+HTML in tagged template strings.
 - [lit-loader](https://github.com/PolymerX/lit-loader), a LitElement Single File Component loader for Webpack.
 - [generator-lit-element](https://github.com/sebs/generator-lit-element), a Yeoman generator for creating LitElement based Custom Elements.
 - [Nutmeg](https://github.com/abraham/nutmeg-cli), a CLI tool to build, test, and publish vanilla Web Components with a little spice.
