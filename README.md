@@ -52,6 +52,7 @@ Sorted by creation date (oldest first).
 
 - [VSCode lit-html plugin](https://github.com/mjbvz/vscode-lit-html), syntax highlighting and IntelliSense for lit-html template strings.
 - [vim-html-template-literals](https://github.com/jonsmithers/vim-html-template-literals), syntax highlighting and indentation for lit-html.
+- [TypeScript lit-html Plugin](https://github.com/Microsoft/typescript-lit-html-plugin), TypeScript server plugin that adds IntelliSense for lit-html template strings.
 
 ## Tools
 
