@@ -46,7 +46,8 @@ Sorted by creation date (oldest first).
 
 ## Starter Templates
 
-- [PWA Starter Kit](https://github.com/Polymer/pwa-starter-kit)
+- [PWA Starter Kit](https://github.com/Polymer/pwa-starter-kit), a starter kit mantained by polymer team itself
+- [Simple Todo App](https://github.com/QuackMartins/lit-ts-redux), a project with webpack, typescript support, lazy loading and redux
 
 ## IDE Plugins
 
