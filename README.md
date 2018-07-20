@@ -47,6 +47,7 @@ Sorted by creation date (oldest first).
 ## Starter Templates
 
 - [PWA Starter Kit](https://github.com/Polymer/pwa-starter-kit)
+- [Create-lit-app](https://github.com/thepassle/create-lit-app)
 
 ## IDE Plugins
 
@@ -78,6 +79,7 @@ an episode with the lit-html creator Justin Fagnani.
 ## Blogs
 - [A bit about lit-html rendering](https://medium.com/@kennethrohde/a-bit-about-lit-html-rendering-2964c50ee56c)
 - [Building a chat with Twilio, lit-html, Parcel and TypeScript](https://www.twilio.com/blog/2018/05/building-a-chat-with-twilio-lit-html-parcel-and-typescript.html)
+- [Making a fullstack CRUD app with LitHTML, Redux, Express, and Webpack](https://medium.com/@pascalschilp/making-a-fullstack-crud-app-with-lithtml-redux-express-and-webpack-fe7e5cf8b3ef)
 
 ## Inspired Solutions
 
