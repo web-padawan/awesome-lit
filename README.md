@@ -7,6 +7,7 @@ lit-html — an efficient, expressive, extensible HTML templating library for Ja
 ## Contents
 
 - [General resources](#general-resources)
+- [Community](#community)
 - [Implementations](#implementations)
 - [Components](#components)
 - [Starter Templates](#starter-templates)
@@ -22,6 +23,11 @@ lit-html — an efficient, expressive, extensible HTML templating library for Ja
 
 - [Documentation](https://polymer.github.io/lit-html/)
 - [GitHub repository](https://github.com/Polymer/lit-html)
+
+## Community
+
+- [lit-html Twitter](https://twitter.com/lit_html)
+- [#lit-html](https://polymer.slack.com/archives/lit-html) channel in [Polymer Slack](https://polymer-slack.herokuapp.com/)
 
 ## Implementations
 
