@@ -33,27 +33,27 @@ lit-html — an efficient, expressive, extensible HTML templating library for Ja
 
 Sorted by creation date (oldest first).
 
-- [@polymer/lit-element](https://github.com/Polymer/lit-element), an ultra-light custom element base class with a simple but expressive API
-- [gluonjs](https://github.com/ruphin/gluonjs), a lightweight library for building web components and applications
-- [lit-element](https://github.com/DiiLord/lit-element), implements lit-html via a LitElement class
-- [lit-html-element](https://github.com/kenchris/lit-element), a base class for creating web components using lit-html
-- [fit-html](https://github.com/Festify/fit-html), fit-html is a combination of lit-html, web components and Redux
-- [lit-html-brackets](https://github.com/bgotink/lit-html-brackets), lit-html extension that uses a bracket syntax similar to angular's template syntax
-- [fabys-lit-element](https://github.com/fabysdev/fabys-lit-element), a base class for creating ES6 webcomponents using TypeScript and lit-html
-- [@littleq/element-lite](https://github.com/tjmonsi/element-lite), a take on using lit-html and Polymer's property mixin
-- [@corpuscule/element](https://github.com/corpusculejs/corpuscule), small framework based on webcomponents and lit-html
+- [@polymer/lit-element](https://github.com/Polymer/lit-element), an ultra-light custom element base class with a simple but expressive API.
+- [gluonjs](https://github.com/ruphin/gluonjs), a lightweight library for building Web Components and applications.
+- [lit-element](https://github.com/DiiLord/lit-element), implements lit-html via a LitElement class.
+- [lit-html-element](https://github.com/kenchris/lit-element), a base class for creating Web Components using lit-html.
+- [fit-html](https://github.com/Festify/fit-html), fit-html is a combination of lit-html, Web Components and Redux.
+- [lit-html-brackets](https://github.com/bgotink/lit-html-brackets), lit-html extension that uses a bracket syntax similar to angular's template syntax.
+- [fabys-lit-element](https://github.com/fabysdev/fabys-lit-element), a base class for creating ES6 Web Components using TypeScript and lit-html.
+- [@littleq/element-lite](https://github.com/tjmonsi/element-lite), a take on using lit-html and Polymer's property mixin.
+- [@corpuscule/element](https://github.com/corpusculejs/corpuscule), small framework based on Web Components and lit-html.
 - [@dabolus/localized-lit-element](https://github.com/Dabolus/localized-lit-element), a LitElement extension that provides easy l10n out of the box.
-- [lit-apollo](https://github.com/bennypowers/lit-apollo), a set of base classes to help create custom elements connected to an ApolloClient cache
+- [lit-apollo](https://github.com/bennypowers/lit-apollo), a set of base classes to help create custom elements connected to an ApolloClient cache.
 
 ## Components
 
-- [Material Web Components](https://github.com/material-components/material-components-web-components), material design implemented as webcomponents
-- [Wired Elements](https://github.com/wiredjs/wired-elements), collection of elements that appear hand drawn
+- [Material Web Components](https://github.com/material-components/material-components-web-components), material design implemented as Web Components.
+- [Wired Elements](https://github.com/wiredjs/wired-elements), collection of elements that appear hand drawn.
 
 ## Starter Templates
 
-- [PWA Starter Kit](https://github.com/Polymer/pwa-starter-kit), a starter template by the Polymer team
-- [Create-lit-app](https://github.com/thepassle/create-lit-app), create lit-html apps with no build configuration
+- [PWA Starter Kit](https://github.com/Polymer/pwa-starter-kit), a starter template by the Polymer team.
+- [Create-lit-app](https://github.com/thepassle/create-lit-app), create lit-html apps with no build configuration.
 
 
 
