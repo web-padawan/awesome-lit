@@ -38,8 +38,8 @@ Sorted by creation date (oldest first).
 - [lit-element](https://github.com/DiiLord/lit-element), implements lit-html via a LitElement class.
 - [lit-html-element](https://github.com/kenchris/lit-element), a base class for creating Web Components using lit-html.
 - [fit-html](https://github.com/Festify/fit-html), fit-html is a combination of lit-html, Web Components and Redux.
-- [lit-html-brackets](https://github.com/bgotink/lit-html-brackets), lit-html extension that uses a bracket syntax similar to angular's template syntax.
-- [fabys-lit-element](https://github.com/fabysdev/fabys-lit-element), a base class for creating ES6 Web Components using TypeScript and lit-html.
+- [lit-html-brackets](https://github.com/bgotink/lit-html-brackets), lit-html extension that uses a bracket syntax similar to Angular's template syntax.
+- [fabys-lit-element](https://github.com/fabysdev/fabys-lit-element), a base class for creating Web Components using TypeScript and lit-html.
 - [@littleq/element-lite](https://github.com/tjmonsi/element-lite), a take on using lit-html and Polymer's property mixin.
 - [@corpuscule/element](https://github.com/corpusculejs/corpuscule), small framework based on Web Components and lit-html.
 - [@dabolus/localized-lit-element](https://github.com/Dabolus/localized-lit-element), a LitElement extension that provides easy l10n out of the box.
@@ -54,8 +54,6 @@ Sorted by creation date (oldest first).
 
 - [PWA Starter Kit](https://github.com/Polymer/pwa-starter-kit), a starter template by the Polymer team.
 - [Create-lit-app](https://github.com/thepassle/create-lit-app), create lit-html apps with no build configuration.
-
-
 
 ## IDE Plugins
 
