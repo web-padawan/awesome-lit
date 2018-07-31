@@ -36,7 +36,7 @@ Sorted by creation date (oldest first).
 
 - [@polymer/lit-element](https://github.com/Polymer/lit-element) - Ultra-light custom element base class with a simple but expressive API.
 - [gluonjs](https://github.com/ruphin/gluonjs) - Lightweight library for building Web Components and applications.
-- [lit-element](https://github.com/DiiLord/lit-element) - Implements lit-html via a LitElement class.
+- [@moleculejs/molecule](https://github.com/Molecule-JS/MoleculeJS) - Library for creating fast and reactive Custom Elements.
 - [lit-html-element](https://github.com/kenchris/lit-element) - Base class for creating Web Components using lit-html.
 - [fit-html](https://github.com/Festify/fit-html) - Combination of lit-html, Web Components and Redux.
 - [lit-html-brackets](https://github.com/bgotink/lit-html-brackets) - A lit-html extension that uses a bracket syntax similar to Angular's template syntax.
