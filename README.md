@@ -1,4 +1,4 @@
-# Awesome lit-html [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome lit-html [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > A curated list of awesome lit-html resources.
 
@@ -18,6 +18,7 @@
 - [Podcasts](#podcasts)
 - [Blogs](#blogs)
 - [Inspired Solutions](#inspired-solutions)
+- [Other awesome resources](#other-awesome-resources)
 
 ## General resources
 
@@ -27,47 +28,47 @@
 ## Community
 
 - [lit-html Twitter](https://twitter.com/lit_html)
-- [#lit-html](https://polymer.slack.com/archives/lit-html) channel in [Polymer Slack](https://polymer-slack.herokuapp.com/)
+- [#lit-html](https://polymer.slack.com/archives/lit-html) - Channel in [Polymer Slack](https://polymer-slack.herokuapp.com)
 
 ## Implementations
 
 Sorted by creation date (oldest first).
 
-- [@polymer/lit-element](https://github.com/Polymer/lit-element) - an ultra-light custom element base class with a simple but expressive API.
-- [gluonjs](https://github.com/ruphin/gluonjs) - a lightweight library for building Web Components and applications.
-- [lit-element](https://github.com/DiiLord/lit-element) - implements lit-html via a LitElement class.
-- [lit-html-element](https://github.com/kenchris/lit-element) - a base class for creating Web Components using lit-html.
-- [fit-html](https://github.com/Festify/fit-html) - a combination of lit-html, Web Components and Redux.
-- [lit-html-brackets](https://github.com/bgotink/lit-html-brackets) - lit-html extension that uses a bracket syntax similar to Angular's template syntax.
-- [fabys-lit-element](https://github.com/fabysdev/fabys-lit-element) - a base class for creating Web Components using TypeScript and lit-html.
-- [@littleq/element-lite](https://github.com/tjmonsi/element-lite) - a take on using lit-html and Polymer's property mixin.
-- [@corpuscule/element](https://github.com/corpusculejs/corpuscule) - small framework based on Web Components and lit-html.
-- [@dabolus/localized-lit-element](https://github.com/Dabolus/localized-lit-element) - a LitElement extension that provides easy l10n out of the box.
-- [lit-apollo](https://github.com/bennypowers/lit-apollo) - a set of base classes to help create custom elements connected to an ApolloClient cache.
+- [@polymer/lit-element](https://github.com/Polymer/lit-element) - Ultra-light custom element base class with a simple but expressive API.
+- [gluonjs](https://github.com/ruphin/gluonjs) - Lightweight library for building Web Components and applications.
+- [lit-element](https://github.com/DiiLord/lit-element) - Implements lit-html via a LitElement class.
+- [lit-html-element](https://github.com/kenchris/lit-element) - Base class for creating Web Components using lit-html.
+- [fit-html](https://github.com/Festify/fit-html) - Combination of lit-html, Web Components and Redux.
+- [lit-html-brackets](https://github.com/bgotink/lit-html-brackets) - A lit-html extension that uses a bracket syntax similar to Angular's template syntax.
+- [fabys-lit-element](https://github.com/fabysdev/fabys-lit-element) - Base class for creating Web Components using TypeScript and lit-html.
+- [@littleq/element-lite](https://github.com/tjmonsi/element-lite) - A take on using lit-html and Polymer's property mixin.
+- [@corpuscule/element](https://github.com/corpusculejs/corpuscule) - Small framework based on Web Components and lit-html.
+- [@dabolus/localized-lit-element](https://github.com/Dabolus/localized-lit-element) - LitElement extension that provides easy l10n out of the box.
+- [lit-apollo](https://github.com/bennypowers/lit-apollo) - Set of base classes to help create custom elements connected to an ApolloClient cache.
 
 ## Components
 
-- [Material Web Components](https://github.com/material-components/material-components-web-components) - material design implemented as Web Components.
-- [Wired Elements](https://github.com/wiredjs/wired-elements) - collection of elements that appear hand drawn.
+- [Material Web Components](https://github.com/material-components/material-components-web-components) - Material Design implemented as Web Components.
+- [Wired Elements](https://github.com/wiredjs/wired-elements) - Collection of elements that appear hand drawn.
 
 ## Starter Templates
 
-- [PWA Starter Kit](https://github.com/Polymer/pwa-starter-kit) - a starter template by the Polymer team.
-- [Create-lit-app](https://github.com/thepassle/create-lit-app) - create lit-html apps with no build configuration.
+- [PWA Starter Kit](https://github.com/Polymer/pwa-starter-kit) - Starter template by the Polymer team.
+- [Create-lit-app](https://github.com/thepassle/create-lit-app) - Create lit-html apps with no build configuration.
 
 ## IDE Plugins
 
-- [VSCode lit-html plugin](https://github.com/mjbvz/vscode-lit-html) - syntax highlighting and IntelliSense for lit-html template strings.
-- [vim-html-template-literals](https://github.com/jonsmithers/vim-html-template-literals) - syntax highlighting and indentation for lit-html.
+- [VSCode lit-html plugin](https://github.com/mjbvz/vscode-lit-html) - Syntax highlighting and IntelliSense for lit-html template strings.
+- [vim-html-template-literals](https://github.com/jonsmithers/vim-html-template-literals) - Syntax highlighting and indentation for lit-html.
 - [TypeScript lit-html Plugin](https://github.com/Microsoft/typescript-lit-html-plugin) - TypeScript server plugin that adds IntelliSense for lit-html template strings.
 
 ## Tools
 
-- [babel-plugin-template-html-minifier](https://github.com/goto-bus-stop/babel-plugin-template-html-minifier) - a Babel plugin for minifying HTML in tagged template strings.
-- [rollup-plugin-minify-html-literals](https://github.com/asyncLiz/rollup-plugin-minify-html-literals) - a Rollup plugin to minify HTML in tagged template strings.
-- [lit-loader](https://github.com/PolymerX/lit-loader) - a LitElement Single File Component loader for Webpack.
-- [generator-lit-element](https://github.com/sebs/generator-lit-element) - a Yeoman generator for creating LitElement based Custom Elements.
-- [Nutmeg](https://github.com/abraham/nutmeg-cli) - a CLI tool to build, test, and publish vanilla Web Components with a little spice.
+- [babel-plugin-template-html-minifier](https://github.com/goto-bus-stop/babel-plugin-template-html-minifier) - Babel plugin for minifying HTML in tagged template strings.
+- [rollup-plugin-minify-html-literals](https://github.com/asyncLiz/rollup-plugin-minify-html-literals) - Rollup plugin to minify HTML in tagged template strings.
+- [lit-loader](https://github.com/PolymerX/lit-loader) - LitElement Single File Component loader for Webpack.
+- [generator-lit-element](https://github.com/sebs/generator-lit-element) - Yeoman generator for creating LitElement based Custom Elements.
+- [Nutmeg](https://github.com/abraham/nutmeg-cli) - CLI tool to build, test, and publish vanilla Web Components with a little spice.
 
 ## Tutorials
 - [Efficient Template Rendering Using lit-html](https://alligator.io/web-components/lit-html/)
@@ -80,7 +81,7 @@ Sorted by creation date (oldest first).
 
 ## Podcasts
 - [The Web Platform Podcast 159: lit-html - HTML Templates via JavaScript Template Literals](https://thewebplatformpodcast.com/159-lithtml-html-templates-via-javascript-template-literals) -
-an episode with the lit-html creator Justin Fagnani.
+An episode with the lit-html creator Justin Fagnani.
 
 ## Blogs
 - [A bit about lit-html rendering](https://medium.com/@kennethrohde/a-bit-about-lit-html-rendering-2964c50ee56c)
@@ -93,13 +94,13 @@ These libraries do not depend on lit-html, but are inspired by some of its conce
 template literal, and leverage the benefits of the same [IDE Plugins](#ide-plugins) for syntax highlighting.
 
 - [hybrids](https://github.com/hybridsjs/hybrids) - UI library for creating Web Components with simple and functional API.
-- [lit-ntml](https://github.com/motss/lit-ntml) - lightweight and modern templating for SSR in Node.js, inspired by lit-html.
+- [lit-ntml](https://github.com/motss/lit-ntml) - Lightweight and modern templating for SSR in Node.js, inspired by lit-html.
 
 ## Other awesome resources
 **If you want more awesome resources, check the [awesome](https://github.com/sindresorhus/awesome) list!**
 
 ---
 
-### License
+## License
 
 [![CC0](https://upload.wikimedia.org/wikipedia/commons/6/69/CC0_button.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
