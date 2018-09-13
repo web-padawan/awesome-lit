@@ -45,6 +45,7 @@ Sorted by creation date (oldest first).
 - [@corpuscule/element](https://github.com/corpusculejs/corpuscule) - Small framework based on Web Components and lit-html.
 - [@dabolus/localized-lit-element](https://github.com/Dabolus/localized-lit-element) - LitElement extension that provides easy l10n out of the box.
 - [lit-apollo](https://github.com/bennypowers/lit-apollo) - Set of base classes to help create custom elements connected to an ApolloClient cache.
+- [@popeindustries/lit-html-server](https://github.com/popeindustries/lit-html-server) - Render lit-html templates on the server as Node.js streams.
 
 ## Components
 
