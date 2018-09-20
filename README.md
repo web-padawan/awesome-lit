@@ -46,6 +46,9 @@ Sorted by creation date (oldest first).
 - [@dabolus/localized-lit-element](https://github.com/Dabolus/localized-lit-element) - LitElement extension that provides easy l10n out of the box.
 - [lit-apollo](https://github.com/bennypowers/lit-apollo) - Set of base classes to help create custom elements connected to an ApolloClient cache.
 - [@popeindustries/lit-html-server](https://github.com/popeindustries/lit-html-server) - Render lit-html templates on the server as Node.js streams.
+
+## LitElement extensions
+
 - [@morbidick/lit-element-notify](https://github.com/morbidick/lit-element-notify) - Small mixin for LitElement to get easy change events via the properties getter.
 
 ## Components
