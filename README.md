@@ -9,6 +9,7 @@
 - [General resources](#general-resources)
 - [Community](#community)
 - [Implementations](#implementations)
+  - [LitElement Extensions](#litelement-extensions)
 - [Components](#components)
 - [Starter Templates](#starter-templates)
 - [IDE Plugins](#ide-plugins)
@@ -34,7 +35,7 @@
 
 Sorted by creation date (oldest first).
 
-- [@polymer/lit-element](https://github.com/Polymer/lit-element) - Ultra-light custom element base class with a simple but expressive API.
+- [@polymer/lit-element](https://github.com/Polymer/lit-element) - Ultra-light base class for creating custom elements rendered with lit-html.
 - [@gluon/gluon](https://github.com/ruphin/gluonjs) - Lightweight library for building Web Components and applications.
 - [@moleculejs/molecule](https://github.com/Molecule-JS/MoleculeJS) - Library for creating fast and reactive Custom Elements.
 - [lit-html-element](https://github.com/kenchris/lit-element) - Base class for creating Web Components using lit-html.
@@ -43,9 +44,14 @@ Sorted by creation date (oldest first).
 - [fabys-lit-element](https://github.com/fabysdev/fabys-lit-element) - Base class for creating Web Components using TypeScript and lit-html.
 - [@littleq/element-lite](https://github.com/tjmonsi/element-lite) - A take on using lit-html and Polymer's property mixin.
 - [@corpuscule/element](https://github.com/corpusculejs/corpuscule) - Small framework based on Web Components and lit-html.
+- [@popeindustries/lit-html-server](https://github.com/popeindustries/lit-html-server) - Render lit-html templates on the server as Node.js streams.
+
+### LitElement Extensions
+
+These are not implementations of lit-html itself but rather community extensions of the official LitElement base class.
+
 - [@dabolus/localized-lit-element](https://github.com/Dabolus/localized-lit-element) - LitElement extension that provides easy l10n out of the box.
 - [lit-apollo](https://github.com/bennypowers/lit-apollo) - Set of base classes to help create custom elements connected to an ApolloClient cache.
-- [@popeindustries/lit-html-server](https://github.com/popeindustries/lit-html-server) - Render lit-html templates on the server as Node.js streams.
 
 ## Components
 
