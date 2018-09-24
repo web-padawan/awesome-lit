@@ -52,6 +52,7 @@ These are not implementations of lit-html itself but rather community extensions
 
 - [@dabolus/localized-lit-element](https://github.com/Dabolus/localized-lit-element) - LitElement extension that provides easy l10n out of the box.
 - [lit-apollo](https://github.com/bennypowers/lit-apollo) - Set of base classes to help create custom elements connected to an ApolloClient cache.
+- [@morbidick/lit-element-notify](https://github.com/morbidick/lit-element-notify) - Small mixin for LitElement to get easy change events via the properties getter.
 
 ## Components
 
