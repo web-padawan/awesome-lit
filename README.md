@@ -98,6 +98,7 @@ An episode with the lit-html creator Justin Fagnani.
 - [Making a fullstack CRUD app with LitHTML, Redux, Express, and Webpack](https://medium.com/@pascalschilp/making-a-fullstack-crud-app-with-lithtml-redux-express-and-webpack-fe7e5cf8b3ef)
 - [The future of Polymer & lit-html](https://43081j.com/2018/08/future-of-polymer)
 - [A night experimenting with Lit-HTML](https://lucamezzalira.com/2018/08/14/a-night-experimenting-with-lit-html/)
+- [LitElement To Do App](https://medium.com/@westbrook/litelement-to-do-app-1e08a31707a4)
 
 ## Inspired Solutions
 
