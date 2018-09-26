@@ -99,6 +99,7 @@ An episode with the lit-html creator Justin Fagnani.
 - [The future of Polymer & lit-html](https://43081j.com/2018/08/future-of-polymer)
 - [A night experimenting with Lit-HTML](https://lucamezzalira.com/2018/08/14/a-night-experimenting-with-lit-html/)
 - [LitElement To Do App](https://medium.com/@westbrook/litelement-to-do-app-1e08a31707a4)
+- [LitElement with Rollup, Babel & Karma](https://43081j.com/2018/09/polymer-lit-with-rollup)
 
 ## Inspired Solutions
 
