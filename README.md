@@ -53,6 +53,7 @@ These are not implementations of lit-html itself but rather community extensions
 - [@dabolus/localized-lit-element](https://github.com/Dabolus/localized-lit-element) - LitElement extension that provides easy l10n out of the box.
 - [lit-apollo](https://github.com/bennypowers/lit-apollo) - Set of base classes to help create custom elements connected to an ApolloClient cache.
 - [@morbidick/lit-element-notify](https://github.com/morbidick/lit-element-notify) - Small mixin for LitElement to get easy change events via the properties getter.
+- [lit-element-serializers](https://github.com/43081j/lit-element-serializers) - Common attribute serializers for use with LitElement.
 
 ## Components
 
@@ -101,6 +102,7 @@ An episode with the lit-html creator Justin Fagnani.
 - [LitElement To Do App](https://medium.com/@westbrook/litelement-to-do-app-1e08a31707a4)
 - [A new, lean way of creating web apps](https://medium.com/@kennethrohde/a-new-lean-way-of-creating-web-apps-88a49c5b87ec)
 - [LitElement with Rollup, Babel & Karma](https://43081j.com/2018/09/polymer-lit-with-rollup)
+- [A Quick Note on Lit Types & Properties](https://43081j.com/2018/10/lit-element-types)
 
 ## Inspired Solutions
 
