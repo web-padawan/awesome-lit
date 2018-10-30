@@ -104,6 +104,7 @@ An episode with the lit-html creator Justin Fagnani.
 - [A new, lean way of creating web apps](https://medium.com/@kennethrohde/a-new-lean-way-of-creating-web-apps-88a49c5b87ec)
 - [LitElement with Rollup, Babel & Karma](https://43081j.com/2018/09/polymer-lit-with-rollup)
 - [A Quick Note on Lit Types & Properties](https://43081j.com/2018/10/lit-element-types)
+- [Let's Build Web Components! Part 5: LitElement](https://dev.to/bennypowers/lets-build-web-components-part-5-litelement-906)
 
 ## Inspired Solutions
 
