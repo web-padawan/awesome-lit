@@ -53,6 +53,7 @@ These are not implementations of lit-html itself but rather community extensions
 - [lit-apollo](https://www.npmjs.com/package/lit-apollo) - Set of base classes to help create custom elements connected to an ApolloClient cache.
 - [@morbidick/lit-element-notify](https://www.npmjs.com/package/@morbidick/lit-element-notify) - Small mixin for LitElement to get easy change events via the properties getter.
 - [lit-element-serializers](https://github.com/43081j/lit-element-serializers) - Common attribute serializers for use with LitElement.
+- [styled-lit-element](https://www.npmjs.com/package/styled-lit-element) - Provides the [lit-css](https://www.npmjs.com/package/lit-css) integration with LitElement base class.
 
 ## Components
 
