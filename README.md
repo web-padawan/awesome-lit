@@ -35,23 +35,23 @@
 
 Sorted by creation date (oldest first).
 
-- [@polymer/lit-element](https://github.com/Polymer/lit-element) - Ultra-light base class for creating custom elements rendered with lit-html.
-- [@gluon/gluon](https://github.com/ruphin/gluonjs) - Lightweight library for building Web Components and applications.
-- [@moleculejs/molecule](https://github.com/Molecule-JS/MoleculeJS) - Library for creating fast and reactive Custom Elements.
-- [lit-html-element](https://github.com/kenchris/lit-element) - Base class for creating Web Components using lit-html.
-- [fit-html](https://github.com/Festify/fit-html) - Combination of lit-html, Web Components and Redux.
-- [lit-html-brackets](https://github.com/bgotink/lit-html-brackets) - A lit-html extension that uses a bracket syntax similar to Angular's template syntax.
-- [@littleq/element-lite](https://github.com/tjmonsi/element-lite) - A take on using lit-html and Polymer's property mixin.
-- [@corpuscule/element](https://github.com/corpusculejs/corpuscule) - Small framework based on Web Components and lit-html.
-- [@popeindustries/lit-html-server](https://github.com/popeindustries/lit-html-server) - Render lit-html templates on the server as Node.js streams.
+- [@polymer/lit-element](https://www.npmjs.com/package/@polymer/lit-element) - Ultra-light base class for creating custom elements rendered with lit-html.
+- [@gluon/gluon](https://www.npmjs.com/package/@gluon/gluon) - Lightweight library for building Web Components and applications.
+- [@moleculejs/molecule](https://www.npmjs.com/package/@moleculejs/molecule-lit) - Base class for creating Custom Elements that renders using lit-html.
+- [lit-html-element](https://www.npmjs.com/package/lit-html-element) - Base class for creating Web Components using lit-html.
+- [fit-html](https://www.npmjs.com/package/fit-html) - Combination of lit-html, Web Components and Redux.
+- [lit-html-brackets](https://www.npmjs.com/package/lit-html-brackets) - A lit-html extension that uses a bracket syntax similar to Angular's template syntax.
+- [@littleq/element-lite](https://www.npmjs.com/package/@littleq/element-lite) - A take on using lit-html and Polymer's property mixin.
+- [@corpuscule/element](https://www.npmjs.com/package/@corpuscule/element) - Small framework based on Web Components and lit-html.
+- [@popeindustries/lit-html-server](https://www.npmjs.com/package/@popeindustries/lit-html-server) - Render lit-html templates on the server as Node.js streams.
 
 ### LitElement Extensions
 
 These are not implementations of lit-html itself but rather community extensions of the official LitElement base class.
 
-- [@dabolus/localized-lit-element](https://github.com/Dabolus/localized-lit-element) - LitElement extension that provides easy l10n out of the box.
-- [lit-apollo](https://github.com/bennypowers/lit-apollo) - Set of base classes to help create custom elements connected to an ApolloClient cache.
-- [@morbidick/lit-element-notify](https://github.com/morbidick/lit-element-notify) - Small mixin for LitElement to get easy change events via the properties getter.
+- [@dabolus/localized-lit-element](https://www.npmjs.com/package/@dabolus/localized-lit-element) - LitElement extension that provides easy l10n out of the box.
+- [lit-apollo](https://www.npmjs.com/package/lit-apollo) - Set of base classes to help create custom elements connected to an ApolloClient cache.
+- [@morbidick/lit-element-notify](https://www.npmjs.com/package/@morbidick/lit-element-notify) - Small mixin for LitElement to get easy change events via the properties getter.
 - [lit-element-serializers](https://github.com/43081j/lit-element-serializers) - Common attribute serializers for use with LitElement.
 
 ## Components
