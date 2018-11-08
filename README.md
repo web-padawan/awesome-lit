@@ -41,7 +41,6 @@ Sorted by creation date (oldest first).
 - [lit-html-element](https://github.com/kenchris/lit-element) - Base class for creating Web Components using lit-html.
 - [fit-html](https://github.com/Festify/fit-html) - Combination of lit-html, Web Components and Redux.
 - [lit-html-brackets](https://github.com/bgotink/lit-html-brackets) - A lit-html extension that uses a bracket syntax similar to Angular's template syntax.
-- [fabys-lit-element](https://github.com/fabysdev/fabys-lit-element) - Base class for creating Web Components using TypeScript and lit-html.
 - [@littleq/element-lite](https://github.com/tjmonsi/element-lite) - A take on using lit-html and Polymer's property mixin.
 - [@corpuscule/element](https://github.com/corpusculejs/corpuscule) - Small framework based on Web Components and lit-html.
 - [@popeindustries/lit-html-server](https://github.com/popeindustries/lit-html-server) - Render lit-html templates on the server as Node.js streams.
