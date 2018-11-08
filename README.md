@@ -37,7 +37,7 @@ Sorted by creation date (oldest first).
 
 - [@polymer/lit-element](https://www.npmjs.com/package/@polymer/lit-element) - Ultra-light base class for creating custom elements rendered with lit-html.
 - [@gluon/gluon](https://www.npmjs.com/package/@gluon/gluon) - Lightweight library for building Web Components and applications.
-- [@moleculejs/molecule](https://www.npmjs.com/package/@moleculejs/molecule-lit) - Base class for creating Custom Elements that renders using lit-html.
+- [@moleculejs/molecule-lit](https://www.npmjs.com/package/@moleculejs/molecule-lit) - Base class for creating Custom Elements that renders using lit-html.
 - [lit-html-element](https://www.npmjs.com/package/lit-html-element) - Base class for creating Web Components using lit-html.
 - [fit-html](https://www.npmjs.com/package/fit-html) - Combination of lit-html, Web Components and Redux.
 - [lit-html-brackets](https://www.npmjs.com/package/lit-html-brackets) - A lit-html extension that uses a bracket syntax similar to Angular's template syntax.
