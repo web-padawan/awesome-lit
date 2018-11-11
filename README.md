@@ -44,7 +44,7 @@ Sorted by creation date (oldest first).
 - [@littleq/element-lite](https://www.npmjs.com/package/@littleq/element-lite) - A take on using lit-html and Polymer's property mixin.
 - [@corpuscule/element](https://www.npmjs.com/package/@corpuscule/element) - Small framework based on Web Components and lit-html.
 - [@popeindustries/lit-html-server](https://www.npmjs.com/package/@popeindustries/lit-html-server) - Render lit-html templates on the server as Node.js streams.
-- [icomponent](https://github.com/prasannavl/icomponent) - A super simple, renderer-agnostic ultralight weight component library for the modern web that emphasizes framework and renderer freedom.
+- [icomponent](https://github.com/prasannavl/icomponent) - A super simple, zero-overhead component library for the modern web that emphasizes framework and renderer freedom.
 
 ### LitElement Extensions
 
