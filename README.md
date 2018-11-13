@@ -1,4 +1,4 @@
-# Awesome lit-html [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome lit-html [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Subscribe to updates](https://i.listlist.net/badge.svg?m=web-padawan%2Fawesome-lit-html)](https://listlist.net/user/web-padawan/awesome-lit-html?subscribe)
 
 > A curated list of awesome lit-html resources.
 
