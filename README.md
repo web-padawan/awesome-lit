@@ -2,7 +2,7 @@
 
 > A curated list of awesome lit-html resources.
 
-[lit-html](https://polymer.github.io/lit-html/) — an efficient, expressive, extensible HTML templating library for JavaScript.
+[lit-html](https://lit-html.polymer-project.org) — an efficient, expressive, extensible HTML templating library for JavaScript.
 
 ## Contents
 
@@ -23,7 +23,7 @@
 
 ## General resources
 
-- [Documentation](https://polymer.github.io/lit-html/)
+- [Documentation](https://lit-html.polymer-project.org/guide)
 - [GitHub repository](https://github.com/Polymer/lit-html)
 
 ## Community
