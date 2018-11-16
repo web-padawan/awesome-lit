@@ -54,7 +54,7 @@ These are not implementations of lit-html itself but rather community extensions
 - [lit-apollo](https://www.npmjs.com/package/lit-apollo) - Set of base classes to help create custom elements connected to an ApolloClient cache.
 - [@morbidick/lit-element-notify](https://www.npmjs.com/package/@morbidick/lit-element-notify) - Small mixin for LitElement to get easy change events via the properties getter.
 - [lit-element-serializers](https://github.com/43081j/lit-element-serializers) - Common attribute serializers for use with LitElement.
-- [styled-lit-element](https://www.npmjs.com/package/styled-lit-element) - Provides the [lit-css](https://www.npmjs.com/package/lit-css) integration with LitElement base class.
+- [styled-lit-element](https://www.npmjs.com/package/styled-lit-element) - Provides the lit-css integration with LitElement base class.
 
 ## Components
 
@@ -109,12 +109,13 @@ An episode with the lit-html creator Justin Fagnani.
 
 ## Inspired Solutions
 
-These libraries do not depend on lit-html, but are inspired by some of its concepts. They also use `html` tagged
-template literal, and leverage the benefits of the same [IDE Plugins](#ide-plugins) for syntax highlighting.
+These libraries do not depend on lit-html, but are inspired by some of its concepts. They use `html` and `css` tagged
+template literals, and leverage the benefits of the same or similar [IDE Plugins](#ide-plugins) for syntax highlighting.
 
 - [hybrids](https://github.com/hybridsjs/hybrids) - UI library for creating Web Components with simple and functional API.
 - [lit-ntml](https://github.com/motss/lit-ntml) - Lightweight and modern templating for SSR in Node.js, inspired by lit-html.
 - [lite-html](https://github.com/ruphin/lite-html) - A modern replacement for VirtualDOM rendering engines.
+- [lit-css](https://github.com/lit-styles/lit-styles/tree/master/packages/lit-css#readme) - A tool to distribute styles via ES modules.
 
 ## Other awesome resources
 **If you want more awesome resources, check the [awesome](https://github.com/sindresorhus/awesome) list!**
