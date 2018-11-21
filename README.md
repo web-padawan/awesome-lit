@@ -75,7 +75,7 @@ These are not implementations of lit-html itself but rather community extensions
 
 ## Tools
 
-- [babel-plugin-template-html-minifier](https://github.com/goto-bus-stop/babel-plugin-template-html-minifier) - Babel plugin for minifying HTML in tagged template strings.
+- [babel-plugin-template-html-minifier](https://github.com/cfware/babel-plugin-template-html-minifier) - Babel plugin for minifying HTML in tagged template strings.
 - [eslint-plugin-lit](https://github.com/43081j/eslint-plugin-lit) - ESLint plugin for lit-html template strings.
 - [rollup-plugin-minify-html-literals](https://github.com/asyncLiz/rollup-plugin-minify-html-literals) - Rollup plugin to minify HTML in tagged template strings.
 - [lit-loader](https://github.com/PolymerX/lit-loader) - LitElement Single File Component loader for Webpack.
