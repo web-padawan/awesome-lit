@@ -46,6 +46,7 @@ Sorted by creation date (oldest first).
 - [@popeindustries/lit-html-server](https://www.npmjs.com/package/@popeindustries/lit-html-server) - Render lit-html templates on the server as Node.js streams.
 - [icomponent](https://www.npmjs.com/package/icomponent) - Super simple, zero-overhead component library for the modern web that emphasizes framework and renderer freedom.
 - [ullr](https://github.com/aggre/ullr) - Building Web Components with Functional Programming Using lit-html.
+- [ce-decorators](https://www.npmjs.com/package/ce-decorators) - Web Component library similar to lit-element but with TS and Babel/ECMA Script Stage-0 (legacy) and Stage-2 decorator support
 
 ### LitElement Extensions
 
