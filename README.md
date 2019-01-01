@@ -84,19 +84,23 @@ These are not implementations of lit-html itself but rather community extensions
 - [Nutmeg](https://github.com/abraham/nutmeg-cli) - CLI tool to build, test, and publish vanilla Web Components with a little spice.
 
 ## Tutorials
+
 - [Efficient Template Rendering Using lit-html](https://alligator.io/web-components/lit-html/)
 - [lit-html examples](https://github.com/LarsDenBakker/lit-html-examples)
 
 ## Videos
+
 - [Efficient, Expressive, and Extensible HTML Templates (Polymer Summit 2017)](https://www.youtube.com/watch?v=ruql541T7gc)
 - [lit-HTML (Chrome Dev Summit 2017)](https://www.youtube.com/watch?v=Io6JjgckHbg)
 - [VDOM vs lit-html - HTTP203](https://www.youtube.com/watch?v=uCHZJy2n8Qs)
 
 ## Podcasts
+
 - [The Web Platform Podcast 159: lit-html - HTML Templates via JavaScript Template Literals](https://thewebplatformpodcast.com/159-lithtml-html-templates-via-javascript-template-literals) -
 An episode with the lit-html creator Justin Fagnani.
 
 ## Blogs
+
 - [A bit about lit-html rendering](https://medium.com/@kennethrohde/a-bit-about-lit-html-rendering-2964c50ee56c)
 - [Building a chat with Twilio, lit-html, Parcel and TypeScript](https://dev.to/dkundel/building-a-chat-with-twilio-lit-html-parcel-and-typescript-1jo1)
 - [Making a fullstack CRUD app with LitHTML, Redux, Express, and Webpack](https://medium.com/@pascalschilp/making-a-fullstack-crud-app-with-lithtml-redux-express-and-webpack-fe7e5cf8b3ef)
@@ -120,6 +124,7 @@ template literals, and leverage the benefits of the same or similar [IDE Plugins
 - [lit-css](https://github.com/lit-styles/lit-styles/tree/master/packages/lit-css#readme) - A tool to distribute styles via ES modules.
 
 ## Other awesome resources
+
 **If you want more awesome resources, check the [awesome](https://github.com/sindresorhus/awesome) list!**
 
 ---
