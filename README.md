@@ -9,6 +9,7 @@
 - [General resources](#general-resources)
 - [Community](#community)
 - [Implementations](#implementations)
+  - [Renderers](#renderers)
   - [LitElement Extensions](#litelement-extensions)
 - [Components](#components)
 - [Starter Templates](#starter-templates)
@@ -37,15 +38,20 @@ Sorted by creation date (oldest first).
 
 - [@polymer/lit-element](https://www.npmjs.com/package/@polymer/lit-element) - Simple base class for creating fast, lightweight Web Components.
 - [@gluon/gluon](https://www.npmjs.com/package/@gluon/gluon) - Lightweight library for building Web Components and applications.
-- [@moleculejs/molecule-lit](https://www.npmjs.com/package/@moleculejs/molecule-lit) - Base class for creating Custom Elements that renders using lit-html.
 - [lit-html-element](https://www.npmjs.com/package/lit-html-element) - Base class for creating Web Components using lit-html.
 - [fit-html](https://www.npmjs.com/package/fit-html) - Combination of lit-html, Web Components and Redux.
 - [lit-html-brackets](https://www.npmjs.com/package/lit-html-brackets) - A lit-html extension that uses a bracket syntax similar to Angular's template syntax.
 - [@littleq/element-lite](https://www.npmjs.com/package/@littleq/element-lite) - A take on using lit-html and Polymer's property mixin.
-- [@corpuscule/element](https://www.npmjs.com/package/@corpuscule/element) - Small framework based on Web Components and lit-html.
 - [@popeindustries/lit-html-server](https://www.npmjs.com/package/@popeindustries/lit-html-server) - Render lit-html templates on the server as Node.js streams.
-- [icomponent](https://www.npmjs.com/package/icomponent) - Super simple, zero-overhead component library for the modern web that emphasizes framework and renderer freedom.
 - [ullr](https://github.com/aggre/ullr) - Building Web Components with Functional Programming Using lit-html.
+
+### Renderers
+
+The following libraries allow using lit-html as a renderer, while also providing alternatives such as [HyperHTML](https://github.com/WebReflection/hyperHTML) or JSX.
+
+- [@moleculejs/molecule-lit](https://www.npmjs.com/package/@moleculejs/molecule-lit) - lit-html based renderer for [Molecule](https://github.com/Molecule-JS/MoleculeJS).
+- [@skatejs/element-lit-html](https://www.npmjs.com/package/@skatejs/element-lit-html) - lit-html based renderer for [SkateJS](https://github.com/skatejs/skatejs).
+- [icomponent-lit](https://www.npmjs.com/package/icomponent-lit) - lit-html based renderer for [icomponent](https://github.com/prasannavl/icomponent).
 
 ### LitElement Extensions
 
