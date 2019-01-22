@@ -59,7 +59,7 @@ The following libraries allow using lit-html as a renderer, while also providing
 These are not implementations of lit-html itself but rather community extensions of the official LitElement base class.
 
 - [@dabolus/localized-lit-element](https://www.npmjs.com/package/@dabolus/localized-lit-element) - LitElement extension that provides easy l10n out of the box.
-- [lit-apollo](https://www.npmjs.com/package/lit-apollo) - Set of base classes to help create custom elements connected to an ApolloClient cache.
+- [@apollo-elements/lit-apollo](https://www.npmjs.com/package/@apollo-elements/lit-apollo) - LitElement integrations with Apollo GraphQL.
 - [@morbidick/lit-element-notify](https://www.npmjs.com/package/@morbidick/lit-element-notify) - Small mixin for LitElement to get easy change events via the properties getter.
 - [styled-lit-element](https://www.npmjs.com/package/styled-lit-element) - Provides the lit-css integration with LitElement base class.
 
