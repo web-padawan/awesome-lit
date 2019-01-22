@@ -36,7 +36,7 @@
 
 Sorted by creation date (oldest first).
 
-- [@polymer/lit-element](https://www.npmjs.com/package/@polymer/lit-element) - Simple base class for creating fast, lightweight Web Components.
+- [lit-element](https://www.npmjs.com/package/lit-element) - Simple base class for creating fast, lightweight Web Components.
 - [@gluon/gluon](https://www.npmjs.com/package/@gluon/gluon) - Lightweight library for building Web Components and applications.
 - [lit-any](https://github.com/wikibus/lit-any) - Partials library, which uses lit-html to compose views and forms from smaller templates.
 - [lit-html-element](https://www.npmjs.com/package/lit-html-element) - Base class for creating Web Components using lit-html.
