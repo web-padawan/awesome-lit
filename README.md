@@ -94,6 +94,7 @@ These are not implementations of lit-html itself but rather community extensions
 
 - [Efficient Template Rendering Using lit-html](https://alligator.io/web-components/lit-html/)
 - [lit-html examples](https://github.com/LarsDenBakker/lit-html-examples)
+- [lit-html workshop](https://github.com/LarsDenBakker/lit-html-workshop)
 
 ## Videos
 
