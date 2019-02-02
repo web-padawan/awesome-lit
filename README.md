@@ -45,6 +45,7 @@ Sorted by creation date (oldest first).
 - [@littleq/element-lite](https://www.npmjs.com/package/@littleq/element-lite) - A take on using lit-html and Polymer's property mixin.
 - [@popeindustries/lit-html-server](https://www.npmjs.com/package/@popeindustries/lit-html-server) - Render lit-html templates on the server as Node.js streams.
 - [ullr](https://github.com/aggre/ullr) - Building Web Components with Functional Programming Using lit-html.
+- [@appnest/lit-translate](https://www.npmjs.com/package/@appnest/lit-translate) - Lightweight i18n library providing a lit-html directive.
 
 ### Renderers
 
