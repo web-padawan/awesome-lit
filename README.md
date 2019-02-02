@@ -50,6 +50,7 @@ Sorted by creation date (oldest first).
 
 The following libraries allow using lit-html as a renderer, while also providing alternatives such as [HyperHTML](https://github.com/WebReflection/hyperHTML) or JSX.
 
+- [@corpuscule/lit-html-renderer](https://www.npmjs.com/package/@corpuscule/lit-html-renderer) - lit-html based renderer for [Corpuscule](https://github.com/corpusculejs/corpuscule).
 - [@moleculejs/molecule-lit](https://www.npmjs.com/package/@moleculejs/molecule-lit) - lit-html based renderer for [Molecule](https://github.com/Molecule-JS/MoleculeJS).
 - [@skatejs/element-lit-html](https://www.npmjs.com/package/@skatejs/element-lit-html) - lit-html based renderer for [SkateJS](https://github.com/skatejs/skatejs).
 - [icomponent-lit](https://www.npmjs.com/package/icomponent-lit) - lit-html based renderer for [icomponent](https://github.com/prasannavl/icomponent).
