@@ -87,7 +87,7 @@ These are not implementations of lit-html itself but rather community extensions
 - [babel-plugin-template-html-minifier](https://github.com/cfware/babel-plugin-template-html-minifier) - Babel plugin for minifying HTML in tagged template strings.
 - [eslint-plugin-lit](https://github.com/43081j/eslint-plugin-lit) - ESLint plugin for lit-html template strings.
 - [rollup-plugin-minify-html-literals](https://github.com/asyncLiz/rollup-plugin-minify-html-literals) - Rollup plugin to minify HTML in tagged template strings.
-- [rollup-plugin-lit-css](https://github.com/bennypowers/rollup-plugin-lit-css) - Rollup plugin to import css files as lit-element tagged css objects.
+- [rollup-plugin-lit-css](https://github.com/bennypowers/rollup-plugin-lit-css) - Rollup plugin to import CSS files as LitElement tagged `css` template strings.
 - [lit-loader](https://github.com/PolymerX/lit-loader) - LitElement Single File Component loader for Webpack.
 - [generator-lit-element](https://github.com/sebs/generator-lit-element) - Yeoman generator for creating LitElement based Custom Elements.
 - [Nutmeg](https://github.com/abraham/nutmeg-cli) - CLI tool to build, test, and publish vanilla Web Components with a little spice.
