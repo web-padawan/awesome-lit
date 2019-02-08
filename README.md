@@ -74,7 +74,7 @@ These are not implementations of lit-html itself but rather community extensions
 ## Starter Templates
 
 - [PWA Starter Kit](https://github.com/Polymer/pwa-starter-kit) - Starter template by the Polymer team.
-- [Create-lit-app](https://github.com/thepassle/create-lit-app) - Create lit-html apps with no build configuration.
+- [open-wc-starter-app](https://github.com/open-wc/open-wc-starter-app) - Starter app based on Open Web Components Recommendations.
 
 ## IDE Plugins
 
