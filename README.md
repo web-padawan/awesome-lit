@@ -96,7 +96,6 @@ These are not implementations of lit-html itself but rather community extensions
 
 ## Tutorials
 
-- [Efficient Template Rendering Using lit-html](https://alligator.io/web-components/lit-html/)
 - [lit-html examples](https://github.com/LarsDenBakker/lit-html-examples)
 - [lit-html workshop](https://github.com/LarsDenBakker/lit-html-workshop)
 
@@ -113,7 +112,6 @@ An episode with the lit-html creator Justin Fagnani.
 
 ## Blogs
 
-- [A bit about lit-html rendering](https://medium.com/@kennethrohde/a-bit-about-lit-html-rendering-2964c50ee56c)
 - [Building a chat with Twilio, lit-html, Parcel and TypeScript](https://dev.to/dkundel/building-a-chat-with-twilio-lit-html-parcel-and-typescript-1jo1)
 - [Making a fullstack CRUD app with LitHTML, Redux, Express, and Webpack](https://medium.com/@pascalschilp/making-a-fullstack-crud-app-with-lithtml-redux-express-and-webpack-fe7e5cf8b3ef)
 - [The future of Polymer & lit-html](https://43081j.com/2018/08/future-of-polymer)
@@ -121,7 +119,6 @@ An episode with the lit-html creator Justin Fagnani.
 - [LitElement To Do App](https://medium.com/@westbrook/litelement-to-do-app-1e08a31707a4)
 - [A new, lean way of creating web apps](https://medium.com/@kennethrohde/a-new-lean-way-of-creating-web-apps-88a49c5b87ec)
 - [LitElement with Rollup, Babel & Karma](https://43081j.com/2018/09/polymer-lit-with-rollup)
-- [A Quick Note on Lit Types & Properties](https://43081j.com/2018/10/lit-element-types)
 - [Let's Build Web Components! Part 5: LitElement](https://dev.to/bennypowers/lets-build-web-components-part-5-litelement-906)
 
 ## Inspired Solutions
