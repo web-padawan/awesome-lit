@@ -8,6 +8,7 @@
 
 - [General resources](#general-resources)
 - [Community](#community)
+- [Overview](#overview)
 - [Implementations](#implementations)
   - [Renderers](#renderers)
   - [LitElement Extensions](#litelement-extensions)
@@ -31,6 +32,10 @@
 
 - [lit-html Twitter](https://twitter.com/lit_html)
 - [#lit-html](https://polymer.slack.com/archives/lit-html) - Channel in [Polymer Slack](https://polymer-slack.herokuapp.com)
+
+## Overview
+
+- [Lightning-fast templates & Web Components: lit-html & LitElement](https://developers.google.com/web/updates/2019/02/lit-element-and-lit-html)
 
 ## Implementations
 
