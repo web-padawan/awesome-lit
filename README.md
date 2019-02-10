@@ -15,7 +15,7 @@
 - [Starter Templates](#starter-templates)
 - [IDE Plugins](#ide-plugins)
 - [Tools](#tools)
-- [Tutorials](#tutorials)
+- [Examples](#examples)
 - [Videos](#videos)
 - [Podcasts](#podcasts)
 - [Blogs](#blogs)
@@ -94,9 +94,9 @@ These are not implementations of lit-html itself but rather community extensions
 - [Nutmeg](https://github.com/abraham/nutmeg-cli) - CLI tool to build, test, and publish vanilla Web Components with a little spice.
 - [open-wc](https://github.com/open-wc) - Set of recommendations to help you generate, test, lint, demo, and publish Web Components.
 
-## Tutorials
+## Examples
 
-- [lit-html examples](https://github.com/LarsDenBakker/lit-html-examples)
+- [lit-demos](https://github.com/open-wc/lit-demos) - Examples for using the lit-html library and LitElement base class.
 - [lit-html workshop](https://github.com/LarsDenBakker/lit-html-workshop)
 
 ## Videos
