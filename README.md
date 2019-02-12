@@ -8,13 +8,15 @@
 
 - [General resources](#general-resources)
 - [Community](#community)
+- [Overview](#overview)
 - [Implementations](#implementations)
+  - [Renderers](#renderers)
   - [LitElement Extensions](#litelement-extensions)
 - [Components](#components)
 - [Starter Templates](#starter-templates)
 - [IDE Plugins](#ide-plugins)
 - [Tools](#tools)
-- [Tutorials](#tutorials)
+- [Examples](#examples)
 - [Videos](#videos)
 - [Podcasts](#podcasts)
 - [Blogs](#blogs)
@@ -31,42 +33,56 @@
 - [lit-html Twitter](https://twitter.com/lit_html)
 - [#lit-html](https://polymer.slack.com/archives/lit-html) - Channel in [Polymer Slack](https://polymer-slack.herokuapp.com)
 
+## Overview
+
+- [Lightning-fast templates & Web Components: lit-html & LitElement](https://developers.google.com/web/updates/2019/02/lit-element-and-lit-html)
+
 ## Implementations
 
 Sorted by creation date (oldest first).
 
-- [@polymer/lit-element](https://www.npmjs.com/package/@polymer/lit-element) - Simple base class for creating fast, lightweight Web Components.
+- [lit-element](https://www.npmjs.com/package/lit-element) - Simple base class for creating fast, lightweight Web Components.
 - [@gluon/gluon](https://www.npmjs.com/package/@gluon/gluon) - Lightweight library for building Web Components and applications.
-- [@moleculejs/molecule-lit](https://www.npmjs.com/package/@moleculejs/molecule-lit) - Base class for creating Custom Elements that renders using lit-html.
+- [lit-any](https://github.com/wikibus/lit-any) - Partials library, which uses lit-html to compose views and forms from smaller templates.
 - [lit-html-element](https://www.npmjs.com/package/lit-html-element) - Base class for creating Web Components using lit-html.
 - [fit-html](https://www.npmjs.com/package/fit-html) - Combination of lit-html, Web Components and Redux.
 - [lit-html-brackets](https://www.npmjs.com/package/lit-html-brackets) - A lit-html extension that uses a bracket syntax similar to Angular's template syntax.
 - [@littleq/element-lite](https://www.npmjs.com/package/@littleq/element-lite) - A take on using lit-html and Polymer's property mixin.
-- [@corpuscule/element](https://www.npmjs.com/package/@corpuscule/element) - Small framework based on Web Components and lit-html.
 - [@popeindustries/lit-html-server](https://www.npmjs.com/package/@popeindustries/lit-html-server) - Render lit-html templates on the server as Node.js streams.
-- [icomponent](https://www.npmjs.com/package/icomponent) - Super simple, zero-overhead component library for the modern web that emphasizes framework and renderer freedom.
 - [ullr](https://github.com/aggre/ullr) - Building Web Components with Functional Programming Using lit-html.
-- [ce-decorators](https://www.npmjs.com/package/ce-decorators) - Web Component library similar to lit-element but with TS and Babel/ECMA Script Stage-0 (legacy) and Stage-2 decorator support
+- [ce-decorators](https://www.npmjs.com/package/ce-decorators) - TypeScript library similar for building Web Components based on decorators proposal and lit-html.
+- [@appnest/lit-translate](https://www.npmjs.com/package/@appnest/lit-translate) - Lightweight i18n library providing a lit-html directive.
+
+### Renderers
+
+The following libraries allow using lit-html as a renderer, while also providing alternatives such as [HyperHTML](https://github.com/WebReflection/hyperHTML) or JSX.
+
+- [@corpuscule/lit-html-renderer](https://www.npmjs.com/package/@corpuscule/lit-html-renderer) - lit-html based renderer for [Corpuscule](https://github.com/corpusculejs/corpuscule).
+- [@moleculejs/molecule-lit](https://www.npmjs.com/package/@moleculejs/molecule-lit) - lit-html based renderer for [Molecule](https://github.com/Molecule-JS/MoleculeJS).
+- [@skatejs/element-lit-html](https://www.npmjs.com/package/@skatejs/element-lit-html) - lit-html based renderer for [SkateJS](https://github.com/skatejs/skatejs).
+- [icomponent-lit](https://www.npmjs.com/package/icomponent-lit) - lit-html based renderer for [icomponent](https://github.com/prasannavl/icomponent).
 
 ### LitElement Extensions
 
 These are not implementations of lit-html itself but rather community extensions of the official LitElement base class.
 
 - [@dabolus/localized-lit-element](https://www.npmjs.com/package/@dabolus/localized-lit-element) - LitElement extension that provides easy l10n out of the box.
-- [lit-apollo](https://www.npmjs.com/package/lit-apollo) - Set of base classes to help create custom elements connected to an ApolloClient cache.
+- [@apollo-elements/lit-apollo](https://www.npmjs.com/package/@apollo-elements/lit-apollo) - LitElement integrations with Apollo GraphQL.
 - [@morbidick/lit-element-notify](https://www.npmjs.com/package/@morbidick/lit-element-notify) - Small mixin for LitElement to get easy change events via the properties getter.
-- [lit-element-serializers](https://github.com/43081j/lit-element-serializers) - Common attribute serializers for use with LitElement.
 - [styled-lit-element](https://www.npmjs.com/package/styled-lit-element) - Provides the lit-css integration with LitElement base class.
 
 ## Components
 
 - [Material Web Components](https://github.com/material-components/material-components-web-components) - Material Design implemented as Web Components.
+- [UI5 Web Components](https://github.com/SAP/ui5-webcomponents) - Enterprise-flavored sugar on top of native APIs!
 - [Wired Elements](https://github.com/wiredjs/wired-elements) - Collection of elements that appear hand drawn.
+- [Chartjs Web Components](https://github.com/fsx950223/chartjs-web-components) - Web components for chartjs.
 
 ## Starter Templates
 
 - [PWA Starter Kit](https://github.com/Polymer/pwa-starter-kit) - Starter template by the Polymer team.
-- [Create-lit-app](https://github.com/thepassle/create-lit-app) - Create lit-html apps with no build configuration.
+- [open-wc-starter-app](https://github.com/open-wc/open-wc-starter-app) - Starter app based on Open Web Components Recommendations.
+- [generator-lit-element-next](https://github.com/motss/generator-lit-element-next) - Generator for developing your next custom element with latest LitElement.
 
 ## IDE Plugins
 
@@ -80,25 +96,30 @@ These are not implementations of lit-html itself but rather community extensions
 - [babel-plugin-template-html-minifier](https://github.com/cfware/babel-plugin-template-html-minifier) - Babel plugin for minifying HTML in tagged template strings.
 - [eslint-plugin-lit](https://github.com/43081j/eslint-plugin-lit) - ESLint plugin for lit-html template strings.
 - [rollup-plugin-minify-html-literals](https://github.com/asyncLiz/rollup-plugin-minify-html-literals) - Rollup plugin to minify HTML in tagged template strings.
+- [rollup-plugin-lit-css](https://github.com/bennypowers/rollup-plugin-lit-css) - Rollup plugin to import CSS files as LitElement tagged `css` template strings.
 - [lit-loader](https://github.com/PolymerX/lit-loader) - LitElement Single File Component loader for Webpack.
 - [generator-lit-element](https://github.com/sebs/generator-lit-element) - Yeoman generator for creating LitElement based Custom Elements.
 - [Nutmeg](https://github.com/abraham/nutmeg-cli) - CLI tool to build, test, and publish vanilla Web Components with a little spice.
+- [open-wc](https://github.com/open-wc) - Set of recommendations to help you generate, test, lint, demo, and publish Web Components.
 
-## Tutorials
-- [Efficient Template Rendering Using lit-html](https://alligator.io/web-components/lit-html/)
-- [lit-html examples](https://github.com/LarsDenBakker/lit-html-examples)
+## Examples
+
+- [lit-demos](https://github.com/open-wc/lit-demos) - Examples for using the lit-html library and LitElement base class.
+- [lit-html workshop](https://github.com/LarsDenBakker/lit-html-workshop)
 
 ## Videos
+
 - [Efficient, Expressive, and Extensible HTML Templates (Polymer Summit 2017)](https://www.youtube.com/watch?v=ruql541T7gc)
 - [lit-HTML (Chrome Dev Summit 2017)](https://www.youtube.com/watch?v=Io6JjgckHbg)
 - [VDOM vs lit-html - HTTP203](https://www.youtube.com/watch?v=uCHZJy2n8Qs)
 
 ## Podcasts
+
 - [The Web Platform Podcast 159: lit-html - HTML Templates via JavaScript Template Literals](https://thewebplatformpodcast.com/159-lithtml-html-templates-via-javascript-template-literals) -
 An episode with the lit-html creator Justin Fagnani.
 
 ## Blogs
-- [A bit about lit-html rendering](https://medium.com/@kennethrohde/a-bit-about-lit-html-rendering-2964c50ee56c)
+
 - [Building a chat with Twilio, lit-html, Parcel and TypeScript](https://dev.to/dkundel/building-a-chat-with-twilio-lit-html-parcel-and-typescript-1jo1)
 - [Making a fullstack CRUD app with LitHTML, Redux, Express, and Webpack](https://medium.com/@pascalschilp/making-a-fullstack-crud-app-with-lithtml-redux-express-and-webpack-fe7e5cf8b3ef)
 - [The future of Polymer & lit-html](https://43081j.com/2018/08/future-of-polymer)
@@ -106,7 +127,6 @@ An episode with the lit-html creator Justin Fagnani.
 - [LitElement To Do App](https://medium.com/@westbrook/litelement-to-do-app-1e08a31707a4)
 - [A new, lean way of creating web apps](https://medium.com/@kennethrohde/a-new-lean-way-of-creating-web-apps-88a49c5b87ec)
 - [LitElement with Rollup, Babel & Karma](https://43081j.com/2018/09/polymer-lit-with-rollup)
-- [A Quick Note on Lit Types & Properties](https://43081j.com/2018/10/lit-element-types)
 - [Let's Build Web Components! Part 5: LitElement](https://dev.to/bennypowers/lets-build-web-components-part-5-litelement-906)
 
 ## Inspired Solutions
@@ -121,6 +141,7 @@ template literals, and leverage the benefits of the same or similar [IDE Plugins
 - [lit-css](https://github.com/lit-styles/lit-styles/tree/master/packages/lit-css#readme) - A tool to distribute styles via ES modules.
 
 ## Other awesome resources
+
 **If you want more awesome resources, check the [awesome](https://github.com/sindresorhus/awesome) list!**
 
 ---
