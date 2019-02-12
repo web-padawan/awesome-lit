@@ -81,6 +81,7 @@ These are not implementations of lit-html itself but rather community extensions
 
 - [PWA Starter Kit](https://github.com/Polymer/pwa-starter-kit) - Starter template by the Polymer team.
 - [open-wc-starter-app](https://github.com/open-wc/open-wc-starter-app) - Starter app based on Open Web Components Recommendations.
+- [generator-lit-element-next](https://github.com/motss/generator-lit-element-next) - Generator for developing your next custom element with latest LitElement.
 
 ## IDE Plugins
 
