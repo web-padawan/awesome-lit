@@ -117,6 +117,7 @@ These are not implementations of lit-html itself but rather community extensions
 
 - [The Web Platform Podcast 159: lit-html - HTML Templates via JavaScript Template Literals](https://thewebplatformpodcast.com/159-lithtml-html-templates-via-javascript-template-literals) -
 An episode with the lit-html creator Justin Fagnani.
+- [ShopTalk Show 348: Getting lit-html with Justin Fagnani](https://shoptalkshow.com/episodes/348/) - Another episode with Justin Fagnani as a guest.
 
 ## Blogs
 
