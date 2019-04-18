@@ -52,6 +52,7 @@ Sorted by creation date (oldest first).
 - [ullr](https://github.com/aggre/ullr) - Building Web Components with Functional Programming Using lit-html.
 - [ce-decorators](https://www.npmjs.com/package/ce-decorators) - TypeScript library for building Web Components based on decorators proposal and lit-html.
 - [@appnest/lit-translate](https://www.npmjs.com/package/@appnest/lit-translate) - Lightweight i18n library providing a lit-html directive.
+- [haunted](https://www.npmjs.com/package/haunted) - React's Hooks API but for standard web components and hyperHTML or lit-html.
 
 ### Renderers
 
