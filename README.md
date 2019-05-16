@@ -135,7 +135,7 @@ An episode with the lit-html creator Justin Fagnani.
 
 ## Books
 
--[Web Design Playground: HTML & CSS The Interactive Way](https://www.manning.com/books/web-design-playground) 
+- [Web Design Playground: HTML & CSS The Interactive Way](https://www.manning.com/books/web-design-playground) 
 
 ## Inspired Solutions
 
