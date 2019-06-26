@@ -67,7 +67,7 @@ The following libraries allow using lit-html as a renderer, while also providing
 
 These are not implementations of lit-html itself but rather community extensions of the official LitElement base class.
 
-- [@dabolus/localized-lit-element](https://www.npmjs.com/package/@dabolus/localized-lit-element) - LitElement extension that provides easy l10n out of the box.
+- [fluent-localize-mixin](https://www.npmjs.com/package/fluent-localize-mixin) - LitElement extension that provides easy l10n out of the box.
 - [@apollo-elements/lit-apollo](https://www.npmjs.com/package/@apollo-elements/lit-apollo) - LitElement integrations with Apollo GraphQL.
 - [@morbidick/lit-element-notify](https://www.npmjs.com/package/@morbidick/lit-element-notify) - Small mixin for LitElement to get easy change events via the properties getter.
 - [lit-flexbox-literals](https://github.com/T-Knott-Mesh/lit-flexbox-literals) - Provides LitElement CSS literals & classes ported from [@polymer/iron-flex-layout](https://github.com/PolymerElements/iron-flex-layout).
