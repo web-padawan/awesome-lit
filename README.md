@@ -76,6 +76,7 @@ These are not implementations of lit-html itself but rather community extensions
 
 ## Components
 
+- [Clever components](https://github.com/CleverCloud/clever-components) - Collection of Web Components made by Clever Cloud.
 - [Material Web Components](https://github.com/material-components/material-components-web-components) - Material Design implemented as Web Components.
 - [RapiDoc - OpenAPI Viewer](https://mrin9.github.io/RapiDoc) - Web Component to view OpenAPI 3.0 & Swagger 2.0 Spec
 - [UI5 Web Components](https://github.com/SAP/ui5-webcomponents) - Enterprise-flavored sugar on top of native APIs!
