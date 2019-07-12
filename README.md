@@ -77,6 +77,7 @@ These are not implementations of lit-html itself but rather community extensions
 
 ## Components
 
+- [Carbon Custom Elements](https://github.com/carbon-design-system/carbon-custom-elements) - Experimental variant of Carbon Design System built with Web Components.
 - [Clever components](https://github.com/CleverCloud/clever-components) - Collection of Web Components made by Clever Cloud.
 - [Ink Components](https://github.com/ink-components/ink-components) - Web components for interactive scientific writing.
 - [Material Web Components](https://github.com/material-components/material-components-web-components) - Material Design implemented as Web Components.
