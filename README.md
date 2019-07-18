@@ -12,6 +12,7 @@
 - [Implementations](#implementations)
   - [Renderers](#renderers)
   - [LitElement Extensions](#litelement-extensions)
+  - [Other](#other)
 - [Components](#components)
 - [Starter Templates](#starter-templates)
 - [IDE Plugins](#ide-plugins)
@@ -75,6 +76,10 @@ These are not implementations of lit-html itself but rather community extensions
 - [@morbidick/lit-element-notify](https://www.npmjs.com/package/@morbidick/lit-element-notify) - Small mixin for LitElement to get easy change events via the properties getter.
 - [fluent-localize-mixin](https://www.npmjs.com/package/fluent-localize-mixin) - LitElement extension that provides easy l10n out of the box.
 - [nextbone](https://www.npmjs.com/package/nextbone) - Backbone re-imagined with ES classes and decorators for using with LitElement.
+
+### Other
+
+- [@feature-hub/dom](https://www.npmjs.com/package/@feature-hub/dom) - Library for building a [Feature Hub](https://github.com/sinnerschrader/feature-hub) integrator using Web Components.
 
 ## Components
 
