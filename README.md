@@ -22,6 +22,7 @@
 - [Videos](#videos)
 - [Podcasts](#podcasts)
 - [Blogs](#blogs)
+- [Projects](#projects)
 - [Inspired Solutions](#inspired-solutions)
 - [Other awesome resources](#other-awesome-resources)
 
@@ -155,6 +156,10 @@ An episode with the lit-html creator Justin Fagnani.
 - [A new, lean way of creating web apps](https://medium.com/@kennethrohde/a-new-lean-way-of-creating-web-apps-88a49c5b87ec)
 - [LitElement with Rollup, Babel & Karma](https://43081j.com/2018/09/polymer-lit-with-rollup)
 - [Let's Build Web Components! Part 5: LitElement](https://dev.to/bennypowers/lets-build-web-components-part-5-litelement-906)
+
+## Projects
+
+- [DevWeb Content Firehose](https://devwebfeed.appspot.com/)
 
 ## Inspired Solutions
 
