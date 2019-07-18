@@ -166,9 +166,9 @@ An episode with the lit-html creator Justin Fagnani.
 These libraries do not depend on lit-html, but are inspired by some of its concepts. They use `html` tagged
 template literal, and leverage the benefits of the same [IDE Plugins](#ide-plugins) for syntax highlighting.
 
+- [htm](https://github.com/developit/htm) - Hyperscript Tagged Markup: JSX alternative using standard tagged templates, with compiler support.
 - [hybrids](https://github.com/hybridsjs/hybrids) - UI library for creating Web Components with simple and functional API.
 - [lit-ntml](https://github.com/motss/lit-ntml) - Lightweight and modern templating for SSR in Node.js, inspired by lit-html.
-- [htm](https://github.com/developit/htm) - Hyperscript Tagged Markup: JSX alternative using standard tagged templates, with compiler support.
 - [lite-html](https://github.com/ruphin/lite-html) - A modern replacement for VirtualDOM rendering engines.
 - [modulor-html](https://github.com/modulor-js/modulor-html) - Missing template engine for Web Components.
 - [picohtml](https://github.com/stepanvanzuriak/picohtml) - Powerfully ~2kB (gzip) HTML template strings.
