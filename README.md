@@ -86,6 +86,7 @@ These are not implementations of lit-html itself but rather community extensions
 
 - [Amber Components](https://github.com/bitrockteam/amber-components) - Web Components implementation of the Amber Design System.
 - [Carbon Custom Elements](https://github.com/carbon-design-system/carbon-custom-elements) - Experimental variant of Carbon Design System built with Web Components.
+- [Chartjs Web Components](https://github.com/fsx950223/chartjs-web-components) - Web components for chartjs.
 - [Clever components](https://github.com/CleverCloud/clever-components) - Collection of Web Components made by Clever Cloud.
 - [Ink Components](https://github.com/ink-components/ink-components) - Web components for interactive scientific writing.
 - [LRNWebComponents](https://github.com/elmsln/lrnwebcomponents) - ELMS:LN produced web components for any project.
@@ -95,7 +96,6 @@ These are not implementations of lit-html itself but rather community extensions
 - [UI5 Web Components](https://github.com/SAP/ui5-webcomponents) - Enterprise-flavored sugar on top of native APIs!
 - [Weightless](https://github.com/andreasbm/weightless) - High quality web components with a small footprint.
 - [Wired Elements](https://github.com/wiredjs/wired-elements) - Collection of elements that appear hand drawn.
-- [Chartjs Web Components](https://github.com/fsx950223/chartjs-web-components) - Web components for chartjs.
 
 ## Starter Templates
 
