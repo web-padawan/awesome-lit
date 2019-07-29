@@ -173,6 +173,7 @@ template literal, and leverage the benefits of the same [IDE Plugins](#ide-plugi
 - [lit-ntml](https://github.com/motss/lit-ntml) - Lightweight and modern templating for SSR in Node.js, inspired by lit-html.
 - [lite-html](https://github.com/ruphin/lite-html) - A modern replacement for VirtualDOM rendering engines.
 - [modulor-html](https://github.com/modulor-js/modulor-html) - Missing template engine for Web Components.
+- [nanohtml](https://github.com/choojs/nanohtml) - HTML template strings for the browser with support for Server Side Rendering in Node.
 - [picohtml](https://github.com/stepanvanzuriak/picohtml) - Powerfully ~2kB (gzip) HTML template strings.
 
 ## Other awesome resources
