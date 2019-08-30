@@ -121,6 +121,7 @@ These are not implementations of lit-html itself but rather community extensions
 
 - [babel-plugin-template-html-minifier](https://github.com/cfware/babel-plugin-template-html-minifier) - Babel plugin for minifying HTML in tagged template strings.
 - [eslint-plugin-lit](https://github.com/43081j/eslint-plugin-lit) - ESLint plugin for lit-html template strings.
+- [lit-analyzer](https://github.com/runem/lit-analyzer/tree/master/packages/lit-analyzer) - CLI that type checks bindings in lit-html templates.
 - [rollup-plugin-minify-html-literals](https://github.com/asyncLiz/rollup-plugin-minify-html-literals) - Rollup plugin to minify HTML in tagged template strings.
 - [rollup-plugin-lit-css](https://github.com/bennypowers/rollup-plugin-lit-css) - Rollup plugin to import CSS files as LitElement tagged `css` template strings.
 - [rollup-plugin-postcss-lit](https://github.com/umbopepato/rollup-plugin-postcss-lit) - Rollup plugin to load PostCSS-processed stylesheets in LitElement components.
