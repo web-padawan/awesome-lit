@@ -108,13 +108,13 @@ These are not implementations of lit-html itself but rather community extensions
 ## IDE Plugins
 
 - [vscode-lit-html](https://github.com/mjbvz/vscode-lit-html) - Syntax highlighting and IntelliSense for lit-html template strings.
-- [vscode-lit-plugin](https://github.com/runem/vscode-lit-plugin) - Syntax highlighting, type checking and code completion for lit-html.
+- [vscode-lit-plugin](https://github.com/runem/lit-analyzer/tree/master/packages/vscode-lit-plugin) - Syntax highlighting, type checking and code completion for lit-html.
 - [es6-string-html](https://github.com/mydesireiscoma/es6-string-html) - VSCode extension which provides syntax highlighting for HTML in ES6 multiline strings.
 - [vim-html-template-literals](https://github.com/jonsmithers/vim-html-template-literals) - Syntax highlighting and indentation for lit-html.
 
 ## TypeScript Plugins
 
-- [ts-lit-plugin](https://github.com/runem/ts-lit-plugin) - Plugin that adds type checking and code completion for lit-html. Used by `vscode-lit-plugin`.
+- [ts-lit-plugin](https://github.com/runem/lit-analyzer/tree/master/packages/ts-lit-plugin) - Plugin that adds type checking and code completion for lit-html. Used by `vscode-lit-plugin`.
 - [typescript-lit-html-plugin](https://github.com/Microsoft/typescript-lit-html-plugin) - TypeScript server plugin that adds IntelliSense for lit-html. Used by `vscode-lit-html`.
 
 ## Tools
