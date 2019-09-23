@@ -72,6 +72,7 @@ The following libraries allow using lit-html as a renderer, while also providing
 
 These are not implementations of lit-html itself but rather community extensions of the official LitElement base class.
 
+- [@adobe/lit-mobx](https://github.com/adobe/lit-mobx) - Mixin and base class for using mobx with LitElement.
 - [@apollo-elements/lit-apollo](https://www.npmjs.com/package/@apollo-elements/lit-apollo) - LitElement integrations with Apollo GraphQL.
 - [@collaborne/lit-flexbox-literals](https://www.npmjs.com/package/@collaborne/lit-flexbox-literals) - Provides LitElement CSS literals & classes ported from [@polymer/iron-flex-layout](https://github.com/PolymerElements/iron-flex-layout).
 - [@morbidick/lit-element-notify](https://www.npmjs.com/package/@morbidick/lit-element-notify) - Small mixin for LitElement to get easy change events via the properties getter.
