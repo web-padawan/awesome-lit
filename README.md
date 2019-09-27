@@ -34,7 +34,7 @@
 ## Community
 
 - [lit-html Twitter](https://twitter.com/lit_html)
-- [Slack Channel](https://join.slack.com/t/polymer/shared_invite/enQtNTAzNzg3NjU4ODM4LTkzZGVlOGIxMmNiMjMzZDM1YzYyMzdiYTk0YjQyOWZhZTMwN2RlNjM5ZDFmZjMxZWRjMWViMDA1MjNiYWFhZWM)
+- [Slack Channel](https://www.polymer-project.org/slack-invite)
 
 ## Overview
 
