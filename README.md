@@ -14,6 +14,8 @@
   - [LitElement Extensions](#litelement-extensions)
   - [Other](#other)
 - [Components](#components)
+  - [Component Libraries](#component-libraries)
+  - [Individual Components](#individual-components)
 - [Starter Templates](#starter-templates)
 - [IDE Plugins](#ide-plugins)
 - [TypeScript Plugins](#typescript-plugins)
@@ -87,6 +89,8 @@ These are not implementations of lit-html itself but rather community extensions
 
 ## Components
 
+### Component Libraries
+
 - [Amber Components](https://github.com/bitrockteam/amber-components) - Web Components implementation of the Amber Design System.
 - [Bronconents](https://github.com/marius2502/bronconents) - Modern Web Components built with Lit-Element.
 - [Carbon Custom Elements](https://github.com/carbon-design-system/carbon-custom-elements) - Experimental variant of Carbon Design System built with Web Components.
@@ -96,10 +100,13 @@ These are not implementations of lit-html itself but rather community extensions
 - [LRNWebComponents](https://github.com/elmsln/lrnwebcomponents) - ELMS:LN produced web components for any project.
 - [Material Web Components](https://github.com/material-components/material-components-web-components) - Material Design implemented as Web Components.
 - [Microsoft Graph Toolkit](https://github.com/microsoftgraph/microsoft-graph-toolkit) - Collection of web components for the Microsoft Graph.
-- [RapiDoc - OpenAPI Viewer](https://mrin9.github.io/RapiDoc) - Web Component to view OpenAPI 3.0 & Swagger 2.0 Spec
 - [UI5 Web Components](https://github.com/SAP/ui5-webcomponents) - Enterprise-flavored sugar on top of native APIs!
 - [Weightless](https://github.com/andreasbm/weightless) - High quality web components with a small footprint.
 - [Wired Elements](https://github.com/wiredjs/wired-elements) - Collection of elements that appear hand drawn.
+
+### Individual Components
+
+- [RapiDoc - OpenAPI Viewer](https://mrin9.github.io/RapiDoc) - Web Component to view OpenAPI 3.0 & Swagger 2.0 Spec
 
 ## Starter Templates
 
