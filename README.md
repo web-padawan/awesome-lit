@@ -108,6 +108,7 @@ These are not implementations of lit-html itself but rather community extensions
 ### Individual Components
 
 - [RapiDoc - OpenAPI Viewer](https://mrin9.github.io/RapiDoc) - Web Component to view OpenAPI 3.0 & Swagger 2.0 Spec
+- [`<model-viewer>`](https://github.com/GoogleWebComponents/model-viewer) - A web component for rendering interactive 3D models.
 
 ## Starter Templates
 
