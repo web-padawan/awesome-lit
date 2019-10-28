@@ -20,6 +20,7 @@
 - [IDE Plugins](#ide-plugins)
 - [TypeScript Plugins](#typescript-plugins)
 - [Tools](#tools)
+- [Static Site Generators](#static-site-generators)
 - [Examples](#examples)
 - [Videos](#videos)
 - [Podcasts](#podcasts)
@@ -144,6 +145,11 @@ These are not implementations of lit-html itself but rather community extensions
 - [lit-loader](https://github.com/PolymerX/lit-loader) - LitElement Single File Component loader for Webpack.
 - [Nutmeg](https://github.com/abraham/nutmeg-cli) - CLI tool to build, test, and publish vanilla Web Components with a little spice.
 - [open-wc](https://github.com/open-wc) - Set of recommendations to help you generate, test, lint, demo, and publish Web Components.
+
+## Static Site Generators
+
+- [Greenwood](https://github.com/ProjectEvergreen/greenwood) - Modern and performant static site generator supporting Web Components based development.
+- [Hydrogen](https://github.com/ShailenNaidoo/hydrogen) - Static-site generator built with TypeScript, which uses templating inspired by lit-html.
 
 ## Examples
 
