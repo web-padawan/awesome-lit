@@ -163,6 +163,7 @@ These are not implementations of lit-html itself but rather community extensions
 - [lit-HTML (Chrome Dev Summit 2017)](https://www.youtube.com/watch?v=Io6JjgckHbg)
 - [VDOM vs lit-html - HTTP203](https://www.youtube.com/watch?v=uCHZJy2n8Qs)
 - [Declarative Reactive Web Components with Justin Fagnani](https://www.youtube.com/watch?v=9FB0GSOAESo)
+- [Building a Complex Application with Web Components and LitElement](https://www.youtube.com/watch?v=x9YDQUJx2uw)
 
 ## Podcasts
 
