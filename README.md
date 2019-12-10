@@ -201,6 +201,7 @@ template literal, and leverage the benefits of the same [IDE Plugins](#ide-plugi
 - [modulor-html](https://github.com/modulor-js/modulor-html) - Missing template engine for Web Components.
 - [nanohtml](https://github.com/choojs/nanohtml) - HTML template strings for the browser with support for Server Side Rendering in Node.
 - [picohtml](https://github.com/stepanvanzuriak/picohtml) - Powerfully ~2kB (gzip) HTML template strings.
+- [tiny-lit](https://github.com/alenaksu/tiny-lit) - Library for building user interfaces using template literals.
 
 ## Other awesome resources
 
