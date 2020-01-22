@@ -193,7 +193,18 @@ An episode with the lit-html creator Justin Fagnani.
 
 ## Projects
 
-- [DevWeb Content Firehose](https://devwebfeed.appspot.com/)
+<table>
+  <tr>
+    <td>Name</td>
+    <td>URL</td>
+    <td>Source</td>
+  </tr>
+  <tr>
+    <td>DevWeb Content Firehose</td>
+    <td>https://devwebfeed.appspot.com</td>
+    <td><a href="https://github.com/GoogleChromeLabs/devwebfeed">Source</a></td>
+  </tr>
+</table>
 
 ## Inspired Solutions
 
