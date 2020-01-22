@@ -204,6 +204,11 @@ An episode with the lit-html creator Justin Fagnani.
     <td>https://devwebfeed.appspot.com</td>
     <td><a href="https://github.com/GoogleChromeLabs/devwebfeed">Source</a></td>
   </tr>
+  <tr>
+    <td>rx-metronome</td>
+    <td>https://rx-metronome.web.app</td>
+    <td><a href="https://github.com/ydubinskyi/rx-metronome">Source</a></td>
+  </tr>
 </table>
 
 ## Inspired Solutions
