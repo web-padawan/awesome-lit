@@ -201,6 +201,11 @@ An episode with the lit-html creator Justin Fagnani.
     <td>Source</td>
   </tr>
   <tr>
+    <td>Create Social Images</td>
+    <td>https://createsocialimages.com</td>
+    <td><a href="https://github.com/pshihn/csi">Source</a></td>
+  </tr>
+  <tr>
     <td>DevWeb Content Firehose</td>
     <td>https://devwebfeed.appspot.com</td>
     <td><a href="https://github.com/GoogleChromeLabs/devwebfeed">Source</a></td>
