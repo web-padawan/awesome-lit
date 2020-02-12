@@ -20,6 +20,7 @@
 - [IDE Plugins](#ide-plugins)
 - [TypeScript Plugins](#typescript-plugins)
 - [Tools](#tools)
+- [CDN](#cdn)
 - [Static Site Generators](#static-site-generators)
 - [Examples](#examples)
 - [Videos](#videos)
@@ -150,6 +151,22 @@ These are not implementations of lit-html itself but rather community extensions
 - [lit-loader](https://github.com/PolymerX/lit-loader) - LitElement Single File Component loader for Webpack.
 - [Nutmeg](https://github.com/abraham/nutmeg-cli) - CLI tool to build, test, and publish vanilla Web Components with a little spice.
 - [open-wc](https://github.com/open-wc) - Set of recommendations to help you generate, test, lint, demo, and publish Web Components.
+
+## CDN
+
+The following content delivery networks provide ES module versions of lit-html and LitElement:
+
+- [unpkg.com](https://unpkg.com/)
+  - [lit-html](https://unpkg.com/lit-html?module)
+  - [lit-element](https://unpkg.com/lit-element?module)
+- [Pika CDN](https://www.pika.dev/cdn)
+  - [lit-html](https://cdn.pika.dev/lit-html)
+  - [lit-element](https://cdn.pika.dev/lit-element)
+
+**Note on using CDN**
+
+1. lit-html directives [might not work](https://github.com/Polymer/lit-element/issues/603#issuecomment-501528498) with LitElement when using Pika CDN.
+2. See [this issue](https://github.com/Polymer/lit-element/issues/603) where the static build for CDN distribution is discussed.
 
 ## Static Site Generators
 
