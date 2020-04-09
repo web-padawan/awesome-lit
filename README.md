@@ -84,6 +84,7 @@ These are not implementations of lit-html itself but rather community extensions
 - [haunted-lit-element](https://www.npmjs.com/package/haunted-lit-element) - A missing connection between [Haunted](https://www.npmjs.com/package/haunted) and LitElement.
 - [lit-robot](https://www.npmjs.com/package/lit-robot) - LitElement integration with [Robot](https://thisrobot.life/).
 - [nextbone](https://www.npmjs.com/package/nextbone) - Backbone re-imagined with ES classes and decorators for using with LitElement.
+- [wc-context](https://www.npmjs.com/package/wc-context) - A context implementation for web components with LitElement integration.
 
 ### Other
 
