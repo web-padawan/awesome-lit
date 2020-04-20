@@ -116,7 +116,7 @@ These are not implementations of lit-html itself but rather community extensions
 
 - [`<api-viewer>`](https://github.com/web-padawan/api-viewer-element) - API documentation and live playground for Web Components.
 - [`<app-datepicker>`](https://github.com/motss/app-datepicker) - Datepicker element built with LitElement and Material Design 2.
-- [`<burgton-button>`](https://www.npmjs.com/package/burgton-button) - A simple to use, customizable and accessible burger-button element.
+- [`<burgton-button>`](https://github.com/boguz/burgton-button) - Simple to use, customizable and accessible burger-button element.
 - [`<code-block>`](https://github.com/justinribeiro/code-block) - Web component that displays colorfully formatted code with Prism.js and LitElement.
 - [`<codesandbox-button>`](https://github.com/bennypowers/codesandbox-button) - Custom Element that shows a CodeSandbox demo when you click on it.
 - [`<dile-modal>`](https://github.com/Polydile/dile-modal) - Web Component to implement a modal box, based on LitElement.
