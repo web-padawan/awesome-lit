@@ -98,6 +98,7 @@ These are not implementations of lit-html itself but rather community extensions
 - [Blackstone UI](https://github.com/kjantzer/bui) - Web components for creating interfaces built with lit-html and LitElement.
 - [Bronconents](https://github.com/marius2502/bronconents) - Modern Web Components built with Lit-Element.
 - [Carbon Custom Elements](https://github.com/carbon-design-system/carbon-custom-elements) - Experimental variant of Carbon Design System built with Web Components.
+- [Chameleon Web Components](https://github.com/MaritzSTL/chameleon) - Collection of framework-agnostic elements based on the Chameleon Design System.
 - [Chartjs Web Components](https://github.com/fsx950223/chartjs-web-components) - Web components for chartjs.
 - [Clever components](https://github.com/CleverCloud/clever-components) - Collection of Web Components made by Clever Cloud.
 - [Ink Components](https://github.com/ink-components/ink-components) - Web components for interactive scientific writing.
