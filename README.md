@@ -95,6 +95,7 @@ These are not implementations of lit-html itself but rather community extensions
 ### Component Libraries
 
 - [Amber Components](https://github.com/bitrockteam/amber-components) - Web Components implementation of the Amber Design System.
+- [AXA Pattern Library](https://github.com/axa-ch/patterns-library) - AXA CH UI components library built with LitElement.
 - [Blackstone UI](https://github.com/kjantzer/bui) - Web components for creating interfaces built with lit-html and LitElement.
 - [Brightspace UI core](https://github.com/BrightspaceUI/core) - Collection of web components for building Brightspace applications.
 - [Bronconents](https://github.com/marius2502/bronconents) - Modern Web Components built with Lit-Element.
