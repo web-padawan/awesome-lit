@@ -114,6 +114,7 @@ These are not implementations of lit-html itself but rather community extensions
 - [VSCode-Webview-Elements](https://github.com/bendera/vscode-webview-elements) - Components for creating VSCode extensions which use the Webview API.
 - [Weightless](https://github.com/andreasbm/weightless) - High quality web components with a small footprint.
 - [Wired Elements](https://github.com/wiredjs/wired-elements) - Collection of elements that appear hand drawn.
+- [Wokwi Elements](https://github.com/wokwi/wokwi-elements) - Web Components for Arduino and various electronic parts.
 
 ### Individual Components
 
