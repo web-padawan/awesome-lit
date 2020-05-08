@@ -245,6 +245,16 @@ An episode with the lit-html creator Justin Fagnani.
     <td>https://rx-metronome.web.app</td>
     <td><a href="https://github.com/ydubinskyi/rx-metronome">Source</a></td>
   </tr>
+  <tr>
+    <td>Scandisk</td>
+    <td>https://manzdev.github.io/scandisk-2.0/</td>
+    <td><a href="https://github.com/ManzDev/scandisk-2.0">Source</a></td>
+  </tr>
+  <tr>
+    <td>Web Skills</td>
+    <td>https://andreasbm.github.io/web-skills/</td>
+    <td><a href="https://github.com/andreasbm/web-skills">Source</a></td>
+  </tr>
 </table>
 
 ## Inspired Solutions
