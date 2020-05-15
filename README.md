@@ -130,6 +130,7 @@ These are not implementations of lit-html itself but rather community extensions
 - [`<model-viewer>`](https://github.com/GoogleWebComponents/model-viewer) - A web component for rendering interactive 3D models.
 - [`<rapi-doc>`](https://github.com/mrin9/RapiDoc) - Web Component to view OpenAPI 3.0 & Swagger 2.0 Spec.
 - [`<stl-part-viewer>`](https://github.com/justinribeiro/stl-part-viewer) - LitElement web component that utilizes Three.js to display an STL model file.
+- [`<erd-editor>`](https://github.com/vuerd/vuerd) - ERD Editor element database modeling tool built with LitElement
 
 ## Starter Templates
 
