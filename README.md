@@ -124,13 +124,13 @@ These are not implementations of lit-html itself but rather community extensions
 - [`<code-block>`](https://github.com/justinribeiro/code-block) - Web component that displays colorfully formatted code with Prism.js and LitElement.
 - [`<codesandbox-button>`](https://github.com/bennypowers/codesandbox-button) - Custom Element that shows a CodeSandbox demo when you click on it.
 - [`<dile-modal>`](https://github.com/Polydile/dile-modal) - Web Component to implement a modal box, based on LitElement.
+- [`<erd-editor>`](https://github.com/vuerd/vuerd) - ERD Editor element database modeling tool built with LitElement
 - [`<granite-qrcode-generator>`](https://github.com/LostInBrittany/granite-qrcode-generator) - Custom element to generate and render QR Codes, using qr.js library.
 - [`<lit-datatable>`](https://github.com/DoubleTrade/lit-datatable) - Material Design implementation of a data table, powered by LitElement.
 - [`<lottie-player>`](https://github.com/LottieFiles/lottie-player) - Web Component for easily embedding and playing Lottie animations.
 - [`<model-viewer>`](https://github.com/GoogleWebComponents/model-viewer) - A web component for rendering interactive 3D models.
 - [`<rapi-doc>`](https://github.com/mrin9/RapiDoc) - Web Component to view OpenAPI 3.0 & Swagger 2.0 Spec.
 - [`<stl-part-viewer>`](https://github.com/justinribeiro/stl-part-viewer) - LitElement web component that utilizes Three.js to display an STL model file.
-- [`<erd-editor>`](https://github.com/vuerd/vuerd) - ERD Editor element database modeling tool built with LitElement
 
 ## Starter Templates
 
