@@ -104,6 +104,7 @@ These are not implementations of lit-html itself but rather community extensions
 - [Chartjs Web Components](https://github.com/fsx950223/chartjs-web-components) - Web components for chartjs.
 - [Clever components](https://github.com/CleverCloud/clever-components) - Collection of Web Components made by Clever Cloud.
 - [Ink Components](https://github.com/ink-components/ink-components) - Web components for interactive scientific writing.
+- [Kor](https://github.com/eduferfer/kor) - User Interface Component Library based on LitElement.
 - [Lithium UI](https://github.com/coryrylan/lithium) - Lightweight UI Components that work everywhere.
 - [LRNWebComponents](https://github.com/elmsln/lrnwebcomponents) - ELMS:LN produced web components for any project.
 - [Material Web Components](https://github.com/material-components/material-components-web-components) - Material Design implemented as Web Components.
