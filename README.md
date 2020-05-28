@@ -105,6 +105,7 @@ These are not implementations of lit-html itself but rather community extensions
 - [Clever components](https://github.com/CleverCloud/clever-components) - Collection of Web Components made by Clever Cloud.
 - [Iooxa](https://github.com/iooxa/article) - Web components for interactive scientific writing, reactive documents and explorable explanations.
 - [Kor](https://github.com/eduferfer/kor) - User Interface Component Library based on LitElement.
+- [Lion](https://github.com/ing-bank/lion) - Highly performant, accessible and flexible Web Components.
 - [Lithium UI](https://github.com/coryrylan/lithium) - Lightweight UI Components that work everywhere.
 - [LRNWebComponents](https://github.com/elmsln/lrnwebcomponents) - ELMS:LN produced web components for any project.
 - [Material Web Components](https://github.com/material-components/material-components-web-components) - Material Design implemented as Web Components.
