@@ -61,6 +61,8 @@ Sorted by creation date (oldest first).
 - [@appnest/lit-translate](https://www.npmjs.com/package/@appnest/lit-translate) - Lightweight i18n library providing a lit-html directive.
 - [haunted](https://www.npmjs.com/package/haunted) - React's Hooks API but for standard web components and hyperHTML or lit-html.
 - [fuco](https://www.npmjs.com/package/fuco) - Functional component like React, but for Web Components.
+- [lit-up](https://github/klaudhaus/lit-up) - Minimal yet scalable state pattern for reactive web apps with lit-html templates
+- [lit-app](https://github/klaudhaus/lit-up) - Isomorphic lit-html based approach for front-end apps, server-side rendering and static sites
 
 ### Renderers
 
