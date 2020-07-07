@@ -169,6 +169,7 @@ These are not implementations of lit-html itself but rather community extensions
 - [lit-loader](https://github.com/PolymerX/lit-loader) - LitElement Single File Component loader for Webpack.
 - [Nutmeg](https://github.com/abraham/nutmeg-cli) - CLI tool to build, test, and publish vanilla Web Components with a little spice.
 - [open-wc](https://github.com/open-wc) - Set of recommendations to help you generate, test, lint, demo, and publish Web Components.
+- [web-components-codemods](https://github.com/kcmr/web-components-codemods) - Codemods for Web Components compatible with lit-html template literals.
 
 ## CDN
 
