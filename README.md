@@ -159,6 +159,7 @@ These are not implementations of lit-html itself but rather community extensions
 
 ## Tools
 
+- [babel-plugin-lit-property-types-from-ts](https://github.com/bschlenk/babel-plugin-lit-property-types-from-ts) - Babel plugin for automatically setting a property's `type` based on its TypeScript type.
 - [babel-plugin-template-html-minifier](https://github.com/cfware/babel-plugin-template-html-minifier) - Babel plugin for minifying HTML in tagged template strings.
 - [eslint-plugin-lit](https://github.com/43081j/eslint-plugin-lit) - ESLint plugin for lit-html template strings.
 - [lit-analyzer](https://github.com/runem/lit-analyzer/tree/master/packages/lit-analyzer) - CLI that type checks bindings in lit-html templates.
