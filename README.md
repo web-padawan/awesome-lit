@@ -120,6 +120,7 @@ These are not implementations of lit-html itself but rather community extensions
 - [Weightless](https://github.com/andreasbm/weightless) - High quality web components with a small footprint.
 - [Wired Elements](https://github.com/wiredjs/wired-elements) - Collection of elements that appear hand drawn.
 - [Wokwi Elements](https://github.com/wokwi/wokwi-elements) - Web Components for Arduino and various electronic parts.
+- [Belle UI](https://github.com/belleui/belleui) - High quality UI library based on LitElement
 
 ### Individual Components
 
