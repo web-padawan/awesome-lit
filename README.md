@@ -63,6 +63,7 @@ Sorted by creation date (oldest first).
 - [fuco](https://www.npmjs.com/package/fuco) - Functional component like React, but for Web Components.
 - [lit-up](https://github.com/klaudhaus/lit-up) - Minimal yet scalable state pattern for reactive web apps with lit-html templates
 - [lit-app](https://github.com/klaudhaus/lit-app) - Isomorphic lit-html based context for front-end apps, server-side rendering and static sites
+- [perlite](https://github.com/PaulMaly/perlite) - Declarative way to create rich client-side widgets designed with server-side apps in mind.
 
 ### Renderers
 
