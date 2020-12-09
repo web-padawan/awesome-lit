@@ -86,6 +86,7 @@ These are not implementations of lit-html itself but rather community extensions
 - [fluent-localize-mixin](https://www.npmjs.com/package/fluent-localize-mixin) - LitElement extension that provides easy l10n out of the box.
 - [haunted-lit-element](https://www.npmjs.com/package/haunted-lit-element) - A missing connection between [Haunted](https://www.npmjs.com/package/haunted) and LitElement.
 - [lit-robot](https://www.npmjs.com/package/lit-robot) - LitElement integration with [Robot](https://thisrobot.life/).
+- [lit-element-state](https://www.npmjs.com/package/lit-element-state) - Simple shared app state management for LitElement.
 - [nextbone](https://www.npmjs.com/package/nextbone) - Backbone re-imagined with ES classes and decorators for using with LitElement.
 - [wc-context](https://www.npmjs.com/package/wc-context) - A context implementation for web components with LitElement integration.
 - [lit-element-state-decoupler](https://www.npmjs.com/package/lit-element-state-decoupler) - Utility for state handling outside of the component for LitElement.
