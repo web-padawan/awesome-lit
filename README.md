@@ -235,6 +235,7 @@ An episode with the lit-html creator Justin Fagnani.
 - [Let's Build Web Components! Part 5: LitElement](https://dev.to/bennypowers/lets-build-web-components-part-5-litelement-906)
 - [Render HTML with Vanilla JavaScript and lit-html](https://dev.to/azure/too-hard-too-soft-just-right-rendering-html-with-lit-html-1km8)
 - [Updating blog-pwa from Polymer to LitElement, Workbox, and Rollup](https://justinribeiro.com/chronicle/2019/04/11/updating-blog-pwa-from-polymer-to-litelement-workbox-and-rollup/)
+- [Here's a minimalist no-frills Redux Toolkit & LitElement example](https://dev.to/jdvivar/here-s-a-minimalist-no-frills-redux-toolkit-litelement-example-1j91)
 
 ## Projects
 
