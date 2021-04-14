@@ -1,6 +1,6 @@
-# Awesome lit-html [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Lit [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> A curated list of awesome lit-html resources.
+> A curated list of awesome lit-html and LitElement resources.
 
 [lit-html](https://lit-html.polymer-project.org) — an efficient, expressive, extensible HTML templating library for JavaScript.
 
