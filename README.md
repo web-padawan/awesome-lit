@@ -1,8 +1,10 @@
 # Awesome Lit [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> A curated list of awesome lit-html and LitElement resources.
+> A curated list of awesome Lit resources.
 
-[lit-html](https://lit-html.polymer-project.org) — an efficient, expressive, extensible HTML templating library for JavaScript.
+[Lit](https://github.com/Polymer/lit-html) — a simple library for building fast, lightweight web components.
+
+At its core is a boilerplate-killing component base class that provides reactive state, scoped styles, and a declarative template system that leads the pack in size, speed, and expressiveness.
 
 ## Contents
 
