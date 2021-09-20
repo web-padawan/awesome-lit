@@ -11,10 +11,7 @@ At its core is a boilerplate-killing component base class that provides reactive
 - [General resources](#general-resources)
 - [Community](#community)
 - [Overview](#overview)
-- [Implementations](#implementations)
-  - [Renderers](#renderers)
-  - [LitElement Extensions](#litelement-extensions)
-  - [Other](#other)
+- [Extensions](#extensions)
 - [Components](#components)
   - [Component Libraries](#component-libraries)
   - [Individual Components](#individual-components)
@@ -23,13 +20,12 @@ At its core is a boilerplate-killing component base class that provides reactive
 - [TypeScript Plugins](#typescript-plugins)
 - [Tools](#tools)
 - [CDN](#cdn)
-- [Static Site Generators](#static-site-generators)
 - [Examples](#examples)
 - [Videos](#videos)
 - [Podcasts](#podcasts)
 - [Blogs](#blogs)
 - [Projects](#projects)
-- [Inspired Solutions](#inspired-solutions)
+- [Similar libraries](#similar-libraries)
 - [Other awesome resources](#other-awesome-resources)
 
 ## General resources
@@ -49,56 +45,14 @@ At its core is a boilerplate-killing component base class that provides reactive
 
 - [Lightning-fast templates & Web Components: lit-html & LitElement](https://developers.google.com/web/updates/2019/02/lit-element-and-lit-html)
 
-## Implementations
+### Extensions
 
-Sorted by creation date (oldest first).
-
-- [lit-element](https://www.npmjs.com/package/lit-element) - Simple base class for creating fast, lightweight Web Components.
-- [@gluon/gluon](https://www.npmjs.com/package/@gluon/gluon) - Lightweight library for building Web Components and applications.
-- [@lit-any/core](https://github.com/hypermedia-app/lit-any-core) - Partials library, which uses lit-html to compose views and forms from smaller templates.
-- [lit-html-element](https://www.npmjs.com/package/lit-html-element) - Base class for creating Web Components using lit-html.
-- [fit-html](https://www.npmjs.com/package/fit-html) - Combination of lit-html, Web Components and Redux.
-- [lit-html-brackets](https://www.npmjs.com/package/lit-html-brackets) - A lit-html extension that uses a bracket syntax similar to Angular's template syntax.
-- [@littleq/element-lite](https://www.npmjs.com/package/@littleq/element-lite) - A take on using lit-html and Polymer's property mixin.
-- [@popeindustries/lit-html-server](https://www.npmjs.com/package/@popeindustries/lit-html-server) - Render lit-html templates on the server as Node.js streams.
-- [ullr](https://github.com/aggre/ullr) - Building Web Components with Functional Programming Using lit-html.
-- [ce-decorators](https://www.npmjs.com/package/ce-decorators) - TypeScript library for building Web Components based on decorators proposal and lit-html.
-- [@appnest/lit-translate](https://www.npmjs.com/package/@appnest/lit-translate) - Lightweight i18n library providing a lit-html directive.
-- [haunted](https://www.npmjs.com/package/haunted) - React's Hooks API but for standard web components and hyperHTML or lit-html.
-- [fuco](https://www.npmjs.com/package/fuco) - Functional component like React, but for Web Components.
-- [lit-up](https://github.com/klaudhaus/lit-up) - Minimal yet scalable state pattern for reactive web apps with lit-html templates
-- [lit-app](https://github.com/klaudhaus/lit-app) - Isomorphic lit-html based context for front-end apps, server-side rendering and static sites
-- [perlite](https://github.com/PaulMaly/perlite) - Declarative way to create rich client-side widgets designed with server-side apps in mind.
-
-### Renderers
-
-The following libraries allow using lit-html as a renderer, while also providing alternatives such as [HyperHTML](https://github.com/WebReflection/hyperHTML) or JSX.
-
-- [@corpuscule/lit-html-renderer](https://www.npmjs.com/package/@corpuscule/lit-html-renderer) - lit-html based renderer for [Corpuscule](https://github.com/corpusculejs/corpuscule).
-- [@helikopter/render-lit-html](https://www.npmjs.com/package/@helikopter/render-lit-html) - lit-html based renderer for [Helicopter](https://github.com/briancavalier/helikopter).
-- [@moleculejs/molecule-lit](https://www.npmjs.com/package/@moleculejs/molecule-lit) - lit-html based renderer for [Molecule](https://github.com/Molecule-JS/MoleculeJS).
-- [@skatejs/element-lit-html](https://www.npmjs.com/package/@skatejs/element-lit-html) - lit-html based renderer for [SkateJS](https://github.com/skatejs/skatejs).
-- [icomponent-lit](https://www.npmjs.com/package/icomponent-lit) - lit-html based renderer for [icomponent](https://github.com/prasannavl/icomponent).
-
-### LitElement Extensions
-
-These are not implementations of lit-html itself but rather community extensions of the official LitElement base class.
-
-- [@adobe/lit-mobx](https://www.npmjs.com/package/@adobe/lit-mobx) - Mixin and base class for using mobx with LitElement.
+- [@adobe/lit-mobx](https://www.npmjs.com/package/@adobe/lit-mobx) - Mixin and base class for using mobx with Lit.
 - [@apollo-elements/lit-apollo](https://www.npmjs.com/package/@apollo-elements/lit-apollo) - LitElement integrations with Apollo GraphQL.
-- [@collaborne/lit-flexbox-literals](https://www.npmjs.com/package/@collaborne/lit-flexbox-literals) - Provides LitElement CSS literals & classes ported from [@polymer/iron-flex-layout](https://github.com/PolymerElements/iron-flex-layout).
-- [@morbidick/lit-element-notify](https://www.npmjs.com/package/@morbidick/lit-element-notify) - Small mixin for LitElement to get easy change events via the properties getter.
-- [fluent-localize-mixin](https://www.npmjs.com/package/fluent-localize-mixin) - LitElement extension that provides easy l10n out of the box.
-- [haunted-lit-element](https://www.npmjs.com/package/haunted-lit-element) - A missing connection between [Haunted](https://www.npmjs.com/package/haunted) and LitElement.
-- [lit-robot](https://www.npmjs.com/package/lit-robot) - LitElement integration with [Robot](https://thisrobot.life/).
-- [lit-element-state](https://www.npmjs.com/package/lit-element-state) - Simple shared app state management for LitElement.
-- [nextbone](https://www.npmjs.com/package/nextbone) - Backbone re-imagined with ES classes and decorators for using with LitElement.
-- [wc-context](https://www.npmjs.com/package/wc-context) - A context implementation for web components with LitElement integration.
+- [pure-lit](https://github.com/MatthiasKainer/pure-lit) - Register your Lit elements as pure functions.
+- [lit-element-effect](https://www.npmjs.com/package/lit-element-effect) - Effect hooks for LitElement.
 - [lit-element-state-decoupler](https://www.npmjs.com/package/lit-element-state-decoupler) - Utility for state handling outside of the component for LitElement.
-
-### Other
-
-- [@feature-hub/dom](https://www.npmjs.com/package/@feature-hub/dom) - Library for building a [Feature Hub](https://github.com/sinnerschrader/feature-hub) integrator using Web Components.
+- [ullr](https://github.com/aggre/ullr) - Build Web Components with functional programming using Lit.
 
 ## Components
 
@@ -147,10 +101,8 @@ These are not implementations of lit-html itself but rather community extensions
 
 ## Starter Templates
 
-- [open-wc-starter-app](https://github.com/open-wc/open-wc-starter-app) - Starter app based on Open Web Components Recommendations.
-- [generator-lit-element-next](https://github.com/motss/generator-lit-element-next) - Generator for developing your next custom element with latest LitElement in TypeScript.
+- [Open Web Components Generator](https://open-wc.org/docs/development/generator/) - Starter app based on Open Web Components Recommendations.
 - [pwa-starter](https://github.com/pwa-builder/pwa-starter) - LitElement edition of the PWABuilder pwa-starter.
-- [@rxdi/starter-client-lit-html](https://github.com/rxdi/starter-client-side-lit-html) - Client side application build with `@rxdi`, lit-html, GraphQL, dependency injection.
 
 ## IDE Plugins
 
@@ -175,9 +127,6 @@ These are not implementations of lit-html itself but rather community extensions
 - [rollup-plugin-inline-lit-element](https://github.com/aelbore/rollup-plugin-inline-lit-element) - Rollup plugin to inline external styles in LitElement and transpile decorators.
 - [rollup-plugin-lit-css](https://github.com/bennypowers/rollup-plugin-lit-css) - Rollup plugin to import CSS files as LitElement tagged `css` template strings.
 - [rollup-plugin-postcss-lit](https://github.com/umbopepato/rollup-plugin-postcss-lit) - Rollup plugin to load PostCSS-processed stylesheets in LitElement components.
-- [lit-loader](https://github.com/PolymerX/lit-loader) - LitElement Single File Component loader for Webpack.
-- [Nutmeg](https://github.com/abraham/nutmeg-cli) - CLI tool to build, test, and publish vanilla Web Components with a little spice.
-- [open-wc](https://github.com/open-wc) - Set of recommendations to help you generate, test, lint, demo, and publish Web Components.
 - [web-components-codemods](https://github.com/kcmr/web-components-codemods) - Codemods for Web Components compatible with lit-html template literals.
 
 ## CDN
@@ -193,7 +142,7 @@ See [this issue](https://github.com/lit/lit-element/issues/603) where the static
 
 ## Examples
 
-- [lit-demos](https://github.com/open-wc/lit-demos) - Examples for using the lit-html library and LitElement base class.
+- [Open Web Components Examples](https://open-wc.org/guides/developing-components/code-examples/#lit-html-and-lit-element) - Code examples of common patterns using Lit.
 - [lit-html workshop](https://github.com/LarsDenBakker/lit-html-workshop)
 
 ## Videos
@@ -267,19 +216,15 @@ An episode with the lit-html creator Justin Fagnani.
   </tr>
 </table>
 
-## Inspired Solutions
+## Similar libraries
 
-These libraries do not depend on lit-html, but are inspired by some of its concepts. They use `html` tagged
+These libraries are not related to Lit, but are built using similar concepts. They use `html` tagged
 template literal, and leverage the benefits of the same [IDE Plugins](#ide-plugins) for syntax highlighting.
 
+- [haunted](https://www.npmjs.com/package/haunted) - React's Hooks API but for standard web components and hyperHTML or lit-html.
 - [htm](https://github.com/developit/htm) - Hyperscript Tagged Markup: JSX alternative using standard tagged templates, with compiler support.
 - [hybrids](https://github.com/hybridsjs/hybrids) - UI library for creating Web Components with simple and functional API.
 - [lit-ntml](https://github.com/motss/lit-ntml) - Lightweight and modern templating for SSR in Node.js, inspired by lit-html.
-- [lite-html](https://github.com/ruphin/lite-html) - A modern replacement for VirtualDOM rendering engines.
-- [modulor-html](https://github.com/modulor-js/modulor-html) - Missing template engine for Web Components.
-- [nanohtml](https://github.com/choojs/nanohtml) - HTML template strings for the browser with support for Server Side Rendering in Node.
-- [picohtml](https://github.com/stepanvanzuriak/picohtml) - Powerfully ~2kB (gzip) HTML template strings.
-- [tiny-lit](https://github.com/alenaksu/tiny-lit) - Library for building user interfaces using template literals.
 
 ## Other awesome resources
 
