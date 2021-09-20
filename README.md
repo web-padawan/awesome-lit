@@ -35,12 +35,13 @@ At its core is a boilerplate-killing component base class that provides reactive
 - [Tutorial](https://lit.dev/tutorial/)
 - [Playground](https://lit.dev/playground/)
 - [Blog](https://lit.dev/blog/)
-- [GitHub repository](https://github.com/lit/lit)
 
 ## Community
 
+- [GitHub](https://github.com/lit/lit)
 - [Twitter](https://twitter.com/lit_html)
-- [Slack Channel](https://lit.dev/slack-invite/)
+- [Slack](https://lit.dev/slack-invite/)
+- [Stack Overflow](https://stackoverflow.com/questions/tagged/lit+or+lit-html+or+lit-element)
 
 ## Overview
 
