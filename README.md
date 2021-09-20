@@ -39,6 +39,7 @@ At its core is a boilerplate-killing component base class that provides reactive
 ## Community
 
 - [GitHub](https://github.com/lit/lit)
+- [GitHub Discussions](https://github.com/lit/lit/discussions)
 - [Twitter](https://twitter.com/buildWithLit)
 - [Slack](https://lit.dev/slack-invite/)
 - [Stack Overflow](https://stackoverflow.com/questions/tagged/lit+or+lit-html+or+lit-element)
