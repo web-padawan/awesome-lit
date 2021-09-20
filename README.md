@@ -11,11 +11,12 @@ At its core is a boilerplate-killing component base class that provides reactive
 - [General resources](#general-resources)
 - [Community](#community)
 - [Overview](#overview)
+- [Starter Templates](#starter-templates)
+- [Codelabs](#codelabs)
 - [Extensions](#extensions)
 - [Components](#components)
   - [Component Libraries](#component-libraries)
   - [Individual Components](#individual-components)
-- [Starter Templates](#starter-templates)
 - [IDE Plugins](#ide-plugins)
 - [TypeScript Plugins](#typescript-plugins)
 - [Tools](#tools)
@@ -44,6 +45,24 @@ At its core is a boilerplate-killing component base class that provides reactive
 ## Overview
 
 - [Lightning-fast templates & Web Components: lit-html & LitElement](https://developers.google.com/web/updates/2019/02/lit-element-and-lit-html)
+
+## Starter Templates
+
+- [LitElement JavaScript starter](https://github.com/lit/lit-element-starter-js) - Sample component using LitElement with JavaScript.
+- [LitElement TypeScript starter](https://github.com/lit/lit-element-starter-ts) - Sample component using LitElement with TypeScript.
+- [hello-web-components](https://github.com/fernandopasik/hello-web-components) - Simple starter web component written in TypeScript using Lit.
+- [Open Web Components Generator](https://open-wc.org/docs/development/generator/) - Starter app based on Open Web Components Recommendations.
+- [pwa-starter](https://github.com/pwa-builder/pwa-starter) - LitElement edition of the PWABuilder pwa-starter.
+- [pwa-lit-template](https://github.com/IBM/pwa-lit-template) - Build Progressive Web Applications following the modern web standards.
+
+## Codelabs
+
+- [Build a Brick Viewer with lit-element](https://codelabs.developers.google.com/codelabs/lit-brick-viewer#0)
+- [Build a Story Component with lit-element](https://codelabs.developers.google.com/codelabs/lit-story-viewer#0)
+- [From Web Component to Lit Element](https://codelabs.developers.google.com/codelabs/the-lit-path#0)
+- [lit-html & lit-element: basics](https://open-wc.org/codelabs/basics/lit-html.html#0)
+- [lit-html & lit-element: intermediate](https://open-wc.org/codelabs/intermediate/lit-html.html#0)
+- [Lit for React Developers](https://codelabs.developers.google.com/codelabs/lit-2-for-react-devs#0)
 
 ### Extensions
 
@@ -98,11 +117,6 @@ At its core is a boilerplate-killing component base class that provides reactive
 - [`<model-viewer>`](https://github.com/GoogleWebComponents/model-viewer) - A web component for rendering interactive 3D models.
 - [`<rapi-doc>`](https://github.com/mrin9/RapiDoc) - Web Component to view OpenAPI 3.0 & Swagger 2.0 Spec.
 - [`<stl-part-viewer>`](https://github.com/justinribeiro/stl-part-viewer) - LitElement web component that utilizes Three.js to display an STL model file.
-
-## Starter Templates
-
-- [Open Web Components Generator](https://open-wc.org/docs/development/generator/) - Starter app based on Open Web Components Recommendations.
-- [pwa-starter](https://github.com/pwa-builder/pwa-starter) - LitElement edition of the PWABuilder pwa-starter.
 
 ## IDE Plugins
 
