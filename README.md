@@ -2,7 +2,7 @@
 
 > A curated list of awesome Lit resources.
 
-[Lit](https://github.com/Polymer/lit-html) — a simple library for building fast, lightweight web components.
+[Lit](https://github.com/lit/lit) — a simple library for building fast, lightweight web components.
 
 At its core is a boilerplate-killing component base class that provides reactive state, scoped styles, and a declarative template system that leads the pack in size, speed, and expressiveness.
 
@@ -34,13 +34,16 @@ At its core is a boilerplate-killing component base class that provides reactive
 
 ## General resources
 
-- [Documentation](https://lit-html.polymer-project.org/guide)
-- [GitHub repository](https://github.com/Polymer/lit-html)
+- [Documentation](https://lit.dev/docs/)
+- [Tutorial](https://lit.dev/tutorial/)
+- [Playground](https://lit.dev/playground/)
+- [Blog](https://lit.dev/blog/)
+- [GitHub repository](https://github.com/lit/lit)
 
 ## Community
 
-- [lit-html Twitter](https://twitter.com/lit_html)
-- [Slack Channel](https://www.polymer-project.org/slack-invite)
+- [Twitter](https://twitter.com/lit_html)
+- [Slack Channel](https://lit.dev/slack-invite/)
 
 ## Overview
 
@@ -179,24 +182,14 @@ These are not implementations of lit-html itself but rather community extensions
 
 ## CDN
 
-The following content delivery networks provide ES module versions of lit-html and LitElement:
+The following content delivery networks provide ES module versions of Lit:
 
-- [unpkg.com](https://unpkg.com/)
-  - [lit-html](https://unpkg.com/lit-html?module)
-  - [lit-element](https://unpkg.com/lit-element?module)
-- [Pika CDN](https://www.pika.dev/cdn)
-  - [lit-html](https://cdn.pika.dev/lit-html)
-  - [lit-element](https://cdn.pika.dev/lit-element)
+- [cdn.esm.sh](https://cdn.esm.sh/lit)
+- [JSPM CDN](https://jspm.dev/lit)
+- [Skypack CDN](https://cdn.skypack.dev/lit)
+- [unpkg.com](https://unpkg.com/lit?module)
 
-**Note on using CDN**
-
-1. lit-html directives [might not work](https://github.com/Polymer/lit-element/issues/603#issuecomment-501528498) with LitElement when using Pika CDN.
-2. See [this issue](https://github.com/Polymer/lit-element/issues/603) where the static build for CDN distribution is discussed.
-
-## Static Site Generators
-
-- [Greenwood](https://github.com/ProjectEvergreen/greenwood) - Modern and performant static site generator supporting Web Components based development.
-- [Hydrogen](https://github.com/ShailenNaidoo/hydrogen) - Static-site generator built with TypeScript, which uses templating inspired by lit-html.
+See [this issue](https://github.com/lit/lit-element/issues/603) where the static build for CDN distribution is discussed.
 
 ## Examples
 
