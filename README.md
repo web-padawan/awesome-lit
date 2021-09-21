@@ -25,7 +25,6 @@ At its core is a boilerplate-killing component base class that provides reactive
 - [Videos](#videos)
 - [Podcasts](#podcasts)
 - [Archive](#archive)
-- [Projects](#projects)
 - [Similar libraries](#similar-libraries)
 - [Other awesome resources](#other-awesome-resources)
 
@@ -202,41 +201,6 @@ The following articles refer to older versions of lit-html and LitElement.
 - [A night experimenting with Lit-HTML](https://lucamezzalira.com/2018/08/14/a-night-experimenting-with-lit-html/)
 - [Making a fullstack CRUD app with LitHTML, Redux, Express, and Webpack](https://medium.com/@pascalschilp/making-a-fullstack-crud-app-with-lithtml-redux-express-and-webpack-fe7e5cf8b3ef)
 - [Building a chat with Twilio, lit-html, Parcel and TypeScript](https://dev.to/dkundel/building-a-chat-with-twilio-lit-html-parcel-and-typescript-1jo1)
-
-## Projects
-
-<table>
-  <tr>
-    <td>Name</td>
-    <td>URL</td>
-    <td>Source</td>
-  </tr>
-  <tr>
-    <td>Create Social Images</td>
-    <td>https://createsocialimages.com</td>
-    <td><a href="https://github.com/pshihn/csi">Source</a></td>
-  </tr>
-  <tr>
-    <td>DevWeb Content Firehose</td>
-    <td>https://devwebfeed.appspot.com</td>
-    <td><a href="https://github.com/GoogleChromeLabs/devwebfeed">Source</a></td>
-  </tr>
-  <tr>
-    <td>rx-metronome</td>
-    <td>https://rx-metronome.web.app</td>
-    <td><a href="https://github.com/ydubinskyi/rx-metronome">Source</a></td>
-  </tr>
-  <tr>
-    <td>Scandisk</td>
-    <td>https://manzdev.github.io/scandisk-2.0/</td>
-    <td><a href="https://github.com/ManzDev/scandisk-2.0">Source</a></td>
-  </tr>
-  <tr>
-    <td>Web Skills</td>
-    <td>https://andreasbm.github.io/web-skills/</td>
-    <td><a href="https://github.com/andreasbm/web-skills">Source</a></td>
-  </tr>
-</table>
 
 ## Similar libraries
 
