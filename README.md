@@ -4,7 +4,7 @@
 
 [Lit](https://github.com/lit/lit) — a simple library for building fast, lightweight web components.
 
-At its core is a boilerplate-killing component base class that provides reactive state, scoped styles, and a declarative template system that leads the pack in size, speed, and expressiveness.
+At Lit's core is a boilerplate-killing component base class that provides reactive state, scoped styles, and a declarative template system that's tiny, fast and expressive.
 
 ## Contents
 
