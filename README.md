@@ -93,7 +93,7 @@ At Lit's core is a boilerplate-killing component base class that provides reacti
 - [`@lit-labs/ssr`](https://www.npmjs.com/package/@lit-labs/ssr) - Package for server-side rendering Lit templates and components.
 - [`@lit-labs/motion`](https://www.npmjs.com/package/@lit-labs/motion) - Lit directives for making things move.
 - [`@lit-labs/react`](https://www.npmjs.com/package/@lit-labs/react) - React integration for Web Components and reactive Lit controllers.
-- [`@lit-labs/scoped-registry-mixin`](https://www.npmjs.com/package/@lit-labs/scoped-registry-mixin) - Mixin that integrates with the speculative Scoped CustomElementRegistry polyfill.
+- [`@lit-labs/scoped-registry-mixin`](https://www.npmjs.com/package/@lit-labs/scoped-registry-mixin) - Mixin for LitElement that integrates with the speculative Scoped CustomElementRegistry polyfill to evaluate the proposal and facilitate feedback.
 - [`@lit-labs/task`](https://www.npmjs.com/package/@lit-labs/task) - Controller for Lit that renders asynchronous tasks.
 - [`@lit-labs/virtualizer`](https://www.npmjs.com/package/@lit-labs/virtualizer) - Package that provides virtual scrolling for Lit.
 
