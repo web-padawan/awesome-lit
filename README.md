@@ -95,6 +95,7 @@ At Lit's core is a boilerplate-killing component base class that provides reacti
 - [pure-lit](https://github.com/MatthiasKainer/pure-lit) - Register your Lit elements as pure functions.
 - [lit-element-effect](https://www.npmjs.com/package/lit-element-effect) - Effect hooks for LitElement.
 - [lit-element-state-decoupler](https://www.npmjs.com/package/lit-element-state-decoupler) - Utility for state handling outside of the component for LitElement.
+- [lit-svelte-stores](https://www.npmjs.com/package/lit-svelte-stores) - Lit controller to use svelte stores as state management.
 - [lit-vaadin-helpers](https://www.npmjs.com/package/lit-vaadin-helpers) - Helpers for using Vaadin web components with Lit 2.
 - [ullr](https://github.com/aggre/ullr) - Build Web Components with functional programming using Lit.
 
