@@ -168,6 +168,7 @@ At Lit's core is a boilerplate-killing component base class that provides reacti
 - [rollup-plugin-lit-css](https://github.com/bennypowers/rollup-plugin-lit-css) - Rollup plugin to import CSS files as LitElement tagged `css` template strings.
 - [rollup-plugin-postcss-lit](https://github.com/umbopepato/rollup-plugin-postcss-lit) - Rollup plugin to load PostCSS-processed stylesheets in LitElement components.
 - [web-components-codemods](https://github.com/kcmr/web-components-codemods) - Codemods for Web Components compatible with lit-html template literals.
+- [Web Component DevTools](https://github.com/Matsuuu/web-component-devtools) - Browser extension for developers working with Web Components.
 
 ## CDN
 
