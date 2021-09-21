@@ -14,6 +14,7 @@ At Lit's core is a boilerplate-killing component base class that provides reacti
 - [Starter Templates](#starter-templates)
 - [Codelabs](#codelabs)
 - [Tutorials](#tutorials)
+- [Lit Labs](#lit-labs)
 - [Extensions](#extensions)
 - [Design Systems](#design-systems)
 - [Component Libraries](#component-libraries)
@@ -86,19 +87,30 @@ At Lit's core is a boilerplate-killing component base class that provides reacti
 - [Recreating The Arduino Pushbutton Using SVG And &lt;lit-element&gt;](https://www.smashingmagazine.com/2020/01/recreating-arduino-pushbutton-svg/)
 - [Routing Management with LitElement and TypeScript](https://labs.thisdot.co/blog/routing-management-with-litelement)
 
+## Lit Labs
+
+- [`@lit/localize`](https://www.npmjs.com/package/@lit/localize) - Library and command-line tool for localizing web applications built using Lit.
+- [`@lit-labs/ssr`](https://www.npmjs.com/package/@lit-labs/ssr) - Package for server-side rendering Lit templates and components.
+- [`@lit-labs/motion`](https://www.npmjs.com/package/@lit-labs/motion) - Lit directives for making things move.
+- [`@lit-labs/react`](https://www.npmjs.com/package/@lit-labs/react) - React integration for Web Components and reactive Lit controllers.
+- [`@lit-labs/scoped-registry-mixin`](https://www.npmjs.com/package/@lit-labs/scoped-registry-mixin) - Mixin that integrates with the speculative Scoped CustomElementRegistry polyfill.
+- [`@lit-labs/task`](https://www.npmjs.com/package/@lit-labs/task) - Controller for Lit that renders asynchronous tasks.
+- [`@lit-labs/virtualizer`](https://www.npmjs.com/package/@lit-labs/virtualizer) - Package that provides virtual scrolling for Lit.
+
 ## Extensions
 
-- [@adobe/lit-mobx](https://www.npmjs.com/package/@adobe/lit-mobx) - Mixin and base class for using mobx with Lit.
-- [@apollo-elements/lit-apollo](https://www.npmjs.com/package/@apollo-elements/lit-apollo) - LitElement integrations with Apollo GraphQL.
-- [@vaadin/form](https://www.npmjs.com/package/@vaadin/form) - Set of utilities for building forms with TypeScript and Lit.
-- [dark-theme-utils](https://www.npmjs.com/package/dark-theme-utils) - Useful utilities for dark mode built with Web Components.
-- [pure-lit](https://github.com/MatthiasKainer/pure-lit) - Register your Lit elements as pure functions.
-- [lit-element-effect](https://www.npmjs.com/package/lit-element-effect) - Effect hooks for LitElement.
-- [lit-element-state-decoupler](https://www.npmjs.com/package/lit-element-state-decoupler) - Utility for state handling outside of the component for LitElement.
-- [lit-redux-router](https://www.npmjs.com/package/lit-redux-router) - Declarative way of routing for Lit powered by pwa-helpers and Redux.
-- [lit-svelte-stores](https://www.npmjs.com/package/lit-svelte-stores) - Lit controller to use svelte stores as state management.
-- [lit-vaadin-helpers](https://www.npmjs.com/package/lit-vaadin-helpers) - Helpers for using Vaadin web components with Lit 2.
-- [ullr](https://github.com/aggre/ullr) - Build Web Components with functional programming using Lit.
+- [`@adobe/lit-mobx`](https://www.npmjs.com/package/@adobe/lit-mobx) - Mixin and base class for using mobx with Lit.
+- [`@apollo-elements/lit-apollo`](https://www.npmjs.com/package/@apollo-elements/lit-apollo) - LitElement integrations with Apollo GraphQL.
+- [`@vaadin/form`](https://www.npmjs.com/package/@vaadin/form) - Set of utilities for building forms with TypeScript and Lit.
+- [`dark-theme-utils`](https://www.npmjs.com/package/dark-theme-utils) - Useful utilities for dark mode built with Web Components.
+- [`exome`](https://www.npmjs.com/package/exome) - State manager for deeply nested states that supports Lit.
+- [`pure-lit`](https://github.com/MatthiasKainer/pure-lit) - Register your Lit elements as pure functions.
+- [`lit-element-effect`](https://www.npmjs.com/package/lit-element-effect) - Effect hooks for LitElement.
+- [`lit-element-state-decoupler`](https://www.npmjs.com/package/lit-element-state-decoupler) - Utility for state handling outside of the component for LitElement.
+- [`lit-redux-router`](https://www.npmjs.com/package/lit-redux-router) - Declarative way of routing for Lit powered by pwa-helpers and Redux.
+- [`lit-svelte-stores`](https://www.npmjs.com/package/lit-svelte-stores) - Lit controller to use svelte stores as state management.
+- [`lit-vaadin-helpers`](https://www.npmjs.com/package/lit-vaadin-helpers) - Helpers for using Vaadin web components with Lit 2.
+- [`ullr`](https://github.com/aggre/ullr) - Build Web Components with functional programming using Lit.
 
 ## Design Systems
 
