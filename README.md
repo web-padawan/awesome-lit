@@ -91,6 +91,7 @@ At Lit's core is a boilerplate-killing component base class that provides reacti
 - [@adobe/lit-mobx](https://www.npmjs.com/package/@adobe/lit-mobx) - Mixin and base class for using mobx with Lit.
 - [@apollo-elements/lit-apollo](https://www.npmjs.com/package/@apollo-elements/lit-apollo) - LitElement integrations with Apollo GraphQL.
 - [@vaadin/form](https://www.npmjs.com/package/@vaadin/form) - Set of utilities for building forms with TypeScript and Lit.
+- [dark-theme-utils](https://www.npmjs.com/package/dark-theme-utils) - Useful utilities for dark mode built with Web Components.
 - [pure-lit](https://github.com/MatthiasKainer/pure-lit) - Register your Lit elements as pure functions.
 - [lit-element-effect](https://www.npmjs.com/package/lit-element-effect) - Effect hooks for LitElement.
 - [lit-element-state-decoupler](https://www.npmjs.com/package/lit-element-state-decoupler) - Utility for state handling outside of the component for LitElement.
