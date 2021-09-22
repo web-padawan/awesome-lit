@@ -194,7 +194,7 @@ At Lit's core is a boilerplate-killing component base class that provides reacti
 ### TypeScript Plugins
 
 - [ts-lit-plugin](https://www.npmjs.com/package/ts-lit-plugin) - Plugin that adds type checking and code completion for Lit templates.
-- [typescript-lit-html-plugin](typescript-lit-html-plugin) - TypeScript server plugin that adds IntelliSense for Lit templates.
+- [typescript-lit-html-plugin](https://www.npmjs.com/package/typescript-lit-html-plugin) - TypeScript server plugin that adds IntelliSense for Lit templates.
 
 ### Other Tools
 
