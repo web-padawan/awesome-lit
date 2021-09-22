@@ -199,6 +199,7 @@ At Lit's core is a boilerplate-killing component base class that provides reacti
 
 ### Other Tools
 
+- [@custom-elements-manifest/analyzer](https://www.npmjs.com/package/@custom-elements-manifest/analyzer) - CLI tool to generate API documentation for web components.
 - [web-components-codemods](https://www.npmjs.com/package/web-components-codemods) - Codemods for Web Components compatible with lit-html template literals.
 - [Web Component DevTools](https://github.com/Matsuuu/web-component-devtools) - Browser extension for developers working with Web Components.
 - [Web Component Factory](https://www.npmjs.com/package/@wcfactory/cli) - CLI tool for generating, building, testing and publishing web components.
