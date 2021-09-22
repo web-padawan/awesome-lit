@@ -19,9 +19,12 @@ At Lit's core is a boilerplate-killing component base class that provides reacti
 - [Design Systems](#design-systems)
 - [Component Libraries](#component-libraries)
 - [Standalone Components](#standalone-components)
-- [IDE Plugins](#ide-plugins)
-- [TypeScript Plugins](#typescript-plugins)
 - [Tools](#tools)
+  - [Building](#building)
+  - [Linting](#linting)
+  - [IDE Plugins](#ide-plugins)
+  - [TypeScript Plugins](#typescript-plugins)
+  - [Other Tools](#other-tools)
 - [CDN](#cdn)
 - [Videos](#videos)
 - [Podcasts](#podcasts)
@@ -163,31 +166,41 @@ At Lit's core is a boilerplate-killing component base class that provides reacti
 - [`<rapi-doc>`](https://github.com/mrin9/RapiDoc) - Web Component to view OpenAPI 3.0 & Swagger 2.0 Spec.
 - [`<stl-part-viewer>`](https://github.com/justinribeiro/stl-part-viewer) - LitElement web component that utilizes Three.js to display an STL model file.
 
-## IDE Plugins
-
-- [vscode-lit-html](https://github.com/mjbvz/vscode-lit-html) - Syntax highlighting and IntelliSense for lit-html template strings.
-- [vscode-lit-plugin](https://github.com/runem/lit-analyzer/tree/master/packages/vscode-lit-plugin) - Syntax highlighting, type checking and code completion for lit-html.
-- [es6-string-html](https://github.com/mydesireiscoma/es6-string-html) - VSCode extension which provides syntax highlighting for HTML in ES6 multiline strings.
-- [vim-html-template-literals](https://github.com/jonsmithers/vim-html-template-literals) - Syntax highlighting and indentation for lit-html.
-
-## TypeScript Plugins
-
-- [ts-lit-plugin](https://github.com/runem/lit-analyzer/tree/master/packages/ts-lit-plugin) - Plugin that adds type checking and code completion for lit-html. Used by `vscode-lit-plugin`.
-- [typescript-lit-html-plugin](https://github.com/Microsoft/typescript-lit-html-plugin) - TypeScript server plugin that adds IntelliSense for lit-html. Used by `vscode-lit-html`.
-
 ## Tools
 
-- [babel-plugin-lit-property-types-from-ts](https://github.com/bschlenk/babel-plugin-lit-property-types-from-ts) - Babel plugin for automatically setting a property's `type` based on its TypeScript type.
-- [babel-plugin-template-html-minifier](https://github.com/cfware/babel-plugin-template-html-minifier) - Babel plugin for minifying HTML in tagged template strings.
-- [eslint-plugin-lit](https://github.com/43081j/eslint-plugin-lit) - ESLint plugin for lit-html template strings.
-- [eslint-plugin-lit-a11y](https://www.npmjs.com/package/eslint-plugin-lit-a11y) - Accessibility linting plugin for lit-html
-- [lit-analyzer](https://github.com/runem/lit-analyzer/tree/master/packages/lit-analyzer) - CLI that type checks bindings in lit-html templates.
-- [rollup-plugin-minify-html-literals](https://github.com/asyncLiz/rollup-plugin-minify-html-literals) - Rollup plugin to minify HTML in tagged template strings.
-- [rollup-plugin-inline-lit-element](https://github.com/aelbore/rollup-plugin-inline-lit-element) - Rollup plugin to inline external styles in LitElement and transpile decorators.
-- [rollup-plugin-lit-css](https://github.com/bennypowers/rollup-plugin-lit-css) - Rollup plugin to import CSS files as LitElement tagged `css` template strings.
-- [rollup-plugin-postcss-lit](https://github.com/umbopepato/rollup-plugin-postcss-lit) - Rollup plugin to load PostCSS-processed stylesheets in LitElement components.
-- [web-components-codemods](https://github.com/kcmr/web-components-codemods) - Codemods for Web Components compatible with lit-html template literals.
+### Building
+
+- [babel-plugin-lit-property-types-from-ts](https://www.npmjs.com/package/babel-plugin-lit-property-types-from-ts) - Babel plugin for setting `type` for reactive properties declared in Lit components based on TypeScript type annotations.
+- [babel-plugin-template-html-minifier](https://www.npmjs.com/package/babel-plugin-template-html-minifier) - Babel plugin for minifying HTML in tagged template strings.
+- [esbuild-plugin-lit-css](https://www.npmjs.com/package/esbuild-plugin-lit-css) - ESBuild plugin to import css files as JavaScript tagged-template literal objects.
+- [lit-css-loader](https://www.npmjs.com/package/lit-css-loader) - Webpack loader to import css files as JavaScript tagged-template literal objects.
+- [rollup-plugin-lit-css](https://www.npmjs.com/package/rollup-plugin-lit-css) - Rollup plugin to import css files as JavaScript tagged-template literal objects.
+- [rollup-plugin-minify-html-literals](https://www.npmjs.com/package/rollup-plugin-minify-html-literals) - Rollup plugin to minify HTML in tagged template strings.
+- [rollup-plugin-postcss-lit](https://www.npmjs.com/package/rollup-plugin-postcss-lit) - Rollup plugin to load PostCSS-processed stylesheets in Lit components.
+
+### Linting
+
+- [eslint-plugin-lit](https://www.npmjs.com/package/eslint-plugin-lit) - ESLint plugin for Lit template strings.
+- [eslint-plugin-lit-a11y](https://www.npmjs.com/package/eslint-plugin-lit-a11y) - Accessibility linting plugin for Lit templates.
+- [lit-analyzer](https://www.npmjs.com/package/lit-analyzer) - CLI that type checks bindings in Lit templates.
+
+### IDE Plugins
+
+- [vscode-lit-html](https://marketplace.visualstudio.com/items?itemName=bierner.lit-html) - Syntax highlighting and IntelliSense for lit-html template strings.
+- [vscode-lit-plugin](https://marketplace.visualstudio.com/items?itemName=runem.lit-plugin) - Syntax highlighting, type checking and code completion for lit-html.
+- [es6-string-html](https://marketplace.visualstudio.com/items?itemName=Tobermory.es6-string-html) - VSCode extension which provides syntax highlighting for HTML in ES6 multiline strings.
+- [vim-html-template-literals](https://github.com/jonsmithers/vim-html-template-literals) - Syntax highlighting and indentation for HTML inside of tagged template literals.
+
+### TypeScript Plugins
+
+- [ts-lit-plugin](https://www.npmjs.com/package/ts-lit-plugin) - Plugin that adds type checking and code completion for Lit templates.
+- [typescript-lit-html-plugin](typescript-lit-html-plugin) - TypeScript server plugin that adds IntelliSense for Lit templates.
+
+### Other Tools
+
+- [web-components-codemods](https://www.npmjs.com/package/web-components-codemods) - Codemods for Web Components compatible with lit-html template literals.
 - [Web Component DevTools](https://github.com/Matsuuu/web-component-devtools) - Browser extension for developers working with Web Components.
+- [Web Component Factory](https://www.npmjs.com/package/@wcfactory/cli) - CLI tool for generating, building, testing and publishing web components.
 
 ## CDN
 
