@@ -174,6 +174,7 @@ At Lit's core is a boilerplate-killing component base class that provides reacti
 - [babel-plugin-template-html-minifier](https://www.npmjs.com/package/babel-plugin-template-html-minifier) - Babel plugin for minifying HTML in tagged template strings.
 - [esbuild-plugin-lit-css](https://www.npmjs.com/package/esbuild-plugin-lit-css) - ESBuild plugin to import css files as JavaScript tagged-template literal objects.
 - [lit-css-loader](https://www.npmjs.com/package/lit-css-loader) - Webpack loader to import css files as JavaScript tagged-template literal objects.
+- [lit-scss-loader](https://www.npmjs.com/package/lit-scss-loader) - Webpack loader to import the CSS/SCSS into Lit components.
 - [rollup-plugin-lit-css](https://www.npmjs.com/package/rollup-plugin-lit-css) - Rollup plugin to import css files as JavaScript tagged-template literal objects.
 - [rollup-plugin-minify-html-literals](https://www.npmjs.com/package/rollup-plugin-minify-html-literals) - Rollup plugin to minify HTML in tagged template strings.
 - [rollup-plugin-postcss-lit](https://www.npmjs.com/package/rollup-plugin-postcss-lit) - Rollup plugin to load PostCSS-processed stylesheets in Lit components.
