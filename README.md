@@ -49,6 +49,7 @@ At Lit's core is a boilerplate-killing component base class that provides reacti
 
 - [Lightning-fast templates & Web Components: lit-html & LitElement](https://developers.google.com/web/updates/2019/02/lit-element-and-lit-html)
 - [Lit 2.0: Meet Lit, all over again!](https://lit.dev/blog/2021-04-21-lit-2.0-meet-lit-all-over-again/)
+- [Announcing Lit 2 stable release](https://lit.dev/blog/2021-09-21-announcing-lit-2/)
 
 ## Starter Templates
 
@@ -204,6 +205,7 @@ See [this issue](https://github.com/lit/lit-element/issues/603) where the static
 - [Efficient, Expressive, and Extensible HTML Templates (Polymer Summit 2017)](https://www.youtube.com/watch?v=ruql541T7gc)
 - [lit-HTML (Chrome Dev Summit 2017)](https://www.youtube.com/watch?v=Io6JjgckHbg)
 - [Lit Beta Launch Event (2021)](https://www.youtube.com/watch?v=f1j7b696L-E)
+- [Lit 2.0 Release Livestream](https://www.youtube.com/watch?v=nfb779XIhsU)
 - [VDOM vs lit-html - HTTP203](https://www.youtube.com/watch?v=uCHZJy2n8Qs)
 - [Declarative Reactive Web Components with Justin Fagnani](https://www.youtube.com/watch?v=9FB0GSOAESo)
 - [Building a Complex Application with Web Components and LitElement](https://www.youtube.com/watch?v=x9YDQUJx2uw)
