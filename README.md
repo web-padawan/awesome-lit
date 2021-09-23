@@ -27,6 +27,7 @@ At Lit's core is a boilerplate-killing component base class that provides reacti
   - [TypeScript Plugins](#typescript-plugins)
   - [Other Tools](#other-tools)
 - [CDN](#cdn)
+- [Integrations](#integrations)
 - [Videos](#videos)
 - [Podcasts](#podcasts)
 - [Archive](#archive)
@@ -229,6 +230,11 @@ The following content delivery networks provide ES module versions of Lit:
 - [unpkg.com](https://unpkg.com/lit?module)
 
 See [this issue](https://github.com/lit/lit/issues/1257) where the static build for CDN distribution is discussed.
+
+## Integrations
+
+- [Fable.Lit](https://github.com/fable-compiler/Fable.Lit) - Collection of tools to embed HTML code into F# code with the power of Lit.
+- [Ruby2JS](https://github.com/ruby2js/ruby2js) - Minimal yet extensible Ruby to JavaScript conversion.
 
 ## Videos
 
