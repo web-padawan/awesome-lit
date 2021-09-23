@@ -161,13 +161,15 @@ At Lit's core is a boilerplate-killing component base class that provides reacti
 - [`<burgton-button>`](https://github.com/boguz/burgton-button) - Simple to use, customizable and accessible burger-button element.
 - [`<code-block>`](https://github.com/justinribeiro/code-block) - Web component that displays colorfully formatted code with Prism.js and LitElement.
 - [`<codesandbox-button>`](https://github.com/bennypowers/codesandbox-button) - Custom Element that shows a CodeSandbox demo when you click on it.
-- [`<dile-modal>`](https://github.com/Polydile/dile-modal) - Web Component to implement a modal box, based on LitElement.
-- [`<erd-editor>`](https://github.com/vuerd/vuerd) - ERD Editor element database modeling tool built with LitElement
 - [`<granite-qrcode-generator>`](https://github.com/LostInBrittany/granite-qrcode-generator) - Custom element to generate and render QR Codes, using qr.js library.
+- [`<helium-animated-pages>`](https://github.com/alangdm/helium-animated-pages) - Web component for creating CSS animations built with Lit.
+- [`<json-viewer>`](https://github.com/alenaksu/json-viewer) - Web Component to visualize JSON data in a tree view.
+- [`<light-gallery>`](https://github.com/sachinchoolur/lightGallery/tree/master/lightgallery-lit) - Full featured JavaScript image and video gallery for Lit.
 - [`<lit-datatable>`](https://github.com/DoubleTrade/lit-datatable) - Material Design implementation of a data table, powered by LitElement.
 - [`<lottie-player>`](https://github.com/LottieFiles/lottie-player) - Web Component for easily embedding and playing Lottie animations.
 - [`<model-viewer>`](https://github.com/GoogleWebComponents/model-viewer) - A web component for rendering interactive 3D models.
 - [`<rapi-doc>`](https://github.com/mrin9/RapiDoc) - Web Component to view OpenAPI 3.0 & Swagger 2.0 Spec.
+- [`<round-slider>`](https://github.com/thomasloven/round-slider) - Simple round slider web component built with Lit.
 - [`<stl-part-viewer>`](https://github.com/justinribeiro/stl-part-viewer) - LitElement web component that utilizes Three.js to display an STL model file.
 
 ## Tools
