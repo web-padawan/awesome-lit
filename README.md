@@ -14,6 +14,7 @@ At Lit's core is a boilerplate-killing component base class that provides reacti
 - [Starter Templates](#starter-templates)
 - [Codelabs](#codelabs)
 - [Tutorials](#tutorials)
+- [Examples](#examples)
 - [Lit Labs](#lit-labs)
 - [Extensions](#extensions)
 - [Design Systems](#design-systems)
@@ -87,9 +88,16 @@ At Lit's core is a boilerplate-killing component base class that provides reacti
 - [Lit and VSCode Extensions](https://rodydavis.com/posts/lit-vscode-extension/)
 - [Lit Sheet Music](https://rodydavis.com/posts/lit-sheet-music/)
 - [Navigation Lifecycle using Vaadin Router, LitElement and TypeScript](https://labs.thisdot.co/blog/navigation-lifecycle-using-vaadin-router-litelement-and-typescript)
-- [Open Web Components Examples](https://open-wc.org/guides/developing-components/code-examples/#lit-html-and-lit-element)
 - [Recreating The Arduino Pushbutton Using SVG And &lt;lit-element&gt;](https://www.smashingmagazine.com/2020/01/recreating-arduino-pushbutton-svg/)
 - [Routing Management with LitElement and TypeScript](https://labs.thisdot.co/blog/routing-management-with-litelement)
+
+## Examples
+
+- [Lit Native](https://github.com/rodydavis/lit-native) - Reuse Lit web components on native platforms.
+- [Lit Node Editor](https://github.com/rodydavis/lit-node-editor) - Node editor built with canvas API and simple graph data structure.
+- [Lit 3D Piano](https://github.com/rodydavis/lit-3d-piano/) - 3D Piano built with Lit, Three.js and Tone.js.
+- [Open Web Components Examples](https://open-wc.org/guides/developing-components/code-examples/#lit-html-and-lit-element) - Code examples of common patterns using Lit.
+- [Vite + RxDB + Lit](https://github.com/rodydavis/vite-rxdb-lit) - Minimal example to get RxDB running with Vite.
 
 ## Lit Labs
 
