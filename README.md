@@ -220,7 +220,7 @@ The following content delivery networks provide ES module versions of Lit:
 - [Skypack CDN](https://cdn.skypack.dev/lit)
 - [unpkg.com](https://unpkg.com/lit?module)
 
-See [this issue](https://github.com/lit/lit-element/issues/603) where the static build for CDN distribution is discussed.
+See [this issue](https://github.com/lit/lit/issues/1257) where the static build for CDN distribution is discussed.
 
 ## Videos
 
