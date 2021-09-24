@@ -61,9 +61,12 @@ At Lit's core is a boilerplate-killing component base class that provides reacti
 - [LitElement JavaScript starter](https://github.com/lit/lit-element-starter-js) - Sample component using LitElement with JavaScript.
 - [LitElement TypeScript starter](https://github.com/lit/lit-element-starter-ts) - Sample component using LitElement with TypeScript.
 - [hello-web-components](https://github.com/fernandopasik/hello-web-components) - Simple starter web component written in TypeScript using Lit.
+- [Lit Sass JavaScript Starter](https://github.com/e111077/lit-sass-js-starter) - Project that has a simple setup for SASS + JS + Lit, using Rollup.
+- [Lit Sass TypeScript Starter](https://github.com/e111077/lit-sass-ts-starter) - Project that has a simple setup for SASS + TS + Lit, using Rollup.
 - [Open Web Components Generator](https://open-wc.org/docs/development/generator/) - Starter app based on Open Web Components Recommendations.
 - [pwa-starter](https://github.com/pwa-builder/pwa-starter) - LitElement edition of the PWABuilder pwa-starter.
 - [pwa-lit-template](https://github.com/IBM/pwa-lit-template) - Build Progressive Web Applications following the modern web standards.
+- [Vite Lit Element TS SASS](https://github.com/e111077/vite-lit-element-ts-sass) - Example Vite project using Lit 2, Typescript, and SASS.
 
 ## Codelabs
 
