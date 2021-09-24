@@ -101,6 +101,7 @@ At Lit's core is a boilerplate-killing component base class that provides reacti
 - [Lit Node Editor](https://github.com/rodydavis/lit-node-editor) - Node editor built with canvas API and simple graph data structure.
 - [Lit 3D Piano](https://github.com/rodydavis/lit-3d-piano/) - 3D Piano built with Lit, Three.js and Tone.js.
 - [Open Web Components Examples](https://open-wc.org/guides/developing-components/code-examples/#lit-html-and-lit-element) - Code examples of common patterns using Lit.
+- [Polymer → Lit Migration Guide](https://kevinpschaaf.github.io/lit-migration-guide) - Code examples showing migration guidance from Polymer to Lit.
 - [Vite + RxDB + Lit](https://github.com/rodydavis/vite-rxdb-lit) - Minimal example to get RxDB running with Vite.
 
 ## Lit Labs
