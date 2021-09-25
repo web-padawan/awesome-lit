@@ -244,6 +244,7 @@ See [this issue](https://github.com/lit/lit/issues/1257) where the static build 
 
 ## Integrations
 
+- [Bridgetown Lit Renderer](https://github.com/bridgetownrb/bridgetown-lit-renderer) - SSR + hydration of Lit components for Bridgetown.
 - [Fable.Lit](https://github.com/fable-compiler/Fable.Lit) - Collection of tools to embed HTML code into F# code with the power of Lit.
 - [Ruby2JS](https://github.com/ruby2js/ruby2js) - Minimal yet extensible Ruby to JavaScript conversion.
 
