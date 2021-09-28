@@ -237,6 +237,7 @@ At Lit's core is a boilerplate-killing component base class that provides reacti
 The following content delivery networks provide ES module versions of Lit:
 
 - [cdn.esm.sh](https://cdn.esm.sh/lit)
+- [jsDelivr CDN](https://cdn.jsdelivr.net/npm/lit/+esm)
 - [JSPM CDN](https://jspm.dev/lit)
 - [Skypack CDN](https://cdn.skypack.dev/lit)
 - [unpkg.com](https://unpkg.com/lit?module)
