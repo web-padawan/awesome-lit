@@ -96,6 +96,7 @@ At Lit's core is a boilerplate-killing component base class that provides reacti
 - [Navigation Lifecycle using Vaadin Router, LitElement and TypeScript](https://labs.thisdot.co/blog/navigation-lifecycle-using-vaadin-router-litelement-and-typescript)
 - [Recreating The Arduino Pushbutton Using SVG And &lt;lit-element&gt;](https://www.smashingmagazine.com/2020/01/recreating-arduino-pushbutton-svg/)
 - [Routing Management with LitElement and TypeScript](https://labs.thisdot.co/blog/routing-management-with-litelement)
+- [Some things to know about Lit](https://dev.to/open-wc/some-things-to-know-about-litelement-282c)
 
 ## Examples
 
