@@ -202,6 +202,7 @@ At Lit's core is a boilerplate-killing component base class that provides reacti
 
 - [babel-plugin-lit-property-types-from-ts](https://www.npmjs.com/package/babel-plugin-lit-property-types-from-ts) - Babel plugin for setting `type` for reactive properties declared in Lit components based on TypeScript type annotations.
 - [babel-plugin-template-html-minifier](https://www.npmjs.com/package/babel-plugin-template-html-minifier) - Babel plugin for minifying HTML in tagged template strings.
+- [esbuild-plugin-lit](https://www.npmjs.com/package/esbuild-plugin-lit) - ESBuild plugin to import CSS, SVG, HTML, XLIFF files as JavaScript tagged-template literal objects.
 - [esbuild-plugin-lit-css](https://www.npmjs.com/package/esbuild-plugin-lit-css) - ESBuild plugin to import css files as JavaScript tagged-template literal objects.
 - [lit-css-loader](https://www.npmjs.com/package/lit-css-loader) - Webpack loader to import css files as JavaScript tagged-template literal objects.
 - [lit-scss-loader](https://www.npmjs.com/package/lit-scss-loader) - Webpack loader to import the CSS/SCSS into Lit components.
