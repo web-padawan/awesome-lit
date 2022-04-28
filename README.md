@@ -159,6 +159,7 @@ At Lit's core is a boilerplate-killing component base class that provides reacti
 - [Chartjs Web Components](https://github.com/fsx950223/chartjs-web-components) - Web components for chartjs.
 - [Clever components](https://github.com/CleverCloud/clever-components) - Collection of Web Components made by Clever Cloud.
 - [Curvenote](https://github.com/curvenote/article) - Web components for creating interactive scientific articles.
+- [Dile Components](https://github.com/Polydile/dile-components) - General use Web Components for websites and applications.
 - [ESP Web Tools](https://github.com/esphome/esp-web-tools) - Allow flashing ESPHome or other ESP-based firmwares via the browser.
 - [Furo Webcomponents](https://github.com/eclipse/eclipsefuro-web) - Enterprise ready set of web components which work best with Eclipse Furo.
 - [Fusion Web Components](https://github.com/equinor/fusion-web-components) - Ser of web components used by Equinor Fusion.
