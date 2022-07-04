@@ -63,6 +63,7 @@ At Lit's core is a boilerplate-killing component base class that provides reacti
 - [hello-web-components](https://github.com/fernandopasik/hello-web-components) - Simple starter web component written in TypeScript using Lit.
 - [Lit Sass JavaScript Starter](https://github.com/e111077/lit-sass-js-starter) - Project that has a simple setup for SASS + JS + Lit, using Rollup.
 - [Lit Sass TypeScript Starter](https://github.com/e111077/lit-sass-ts-starter) - Project that has a simple setup for SASS + TS + Lit, using Rollup.
+- [Lit Starter With Tailwind](https://github.com/running-grass/starter-lit-with-tailwind) - A boilerplate using Vite, Lit and Tailwind CSS.
 - [Lit Webpack Starter](https://github.com/andrewlevada/webpack-lit-template) - Starter for multipage apps with Lit and Typescript, using Webpack.  
 - [Open Web Components Generator](https://open-wc.org/docs/development/generator/) - Starter app based on Open Web Components Recommendations.
 - [pwa-starter](https://github.com/pwa-builder/pwa-starter) - LitElement edition of the PWABuilder pwa-starter.
