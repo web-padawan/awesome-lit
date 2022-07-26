@@ -37,7 +37,7 @@ At Lit's core is a boilerplate-killing component base class that provides reacti
 ## General resources
 
 - [Documentation](https://lit.dev/docs/)
-- [Tutorial](https://lit.dev/tutorial/)
+- [Tutorials](https://lit.dev/tutorials/)
 - [Playground](https://lit.dev/playground/)
 - [Blog](https://lit.dev/blog/)
 
@@ -247,7 +247,7 @@ The following content delivery networks provide ES module versions of Lit:
 - [Skypack CDN](https://cdn.skypack.dev/lit)
 - [unpkg.com](https://unpkg.com/lit?module)
 
-See [this issue](https://github.com/lit/lit/issues/1257) where the static build for CDN distribution is discussed.
+See [lit.dev documentation](https://lit.dev/docs/getting-started/#use-bundles) for using bundles.
 
 ## Integrations
 
