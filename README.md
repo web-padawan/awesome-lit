@@ -142,7 +142,7 @@ At Lit's core is a boilerplate-killing component base class that provides reacti
 - [AXA Pattern Library](https://github.com/axa-ch/patterns-library) - AXA CH UI components library built with LitElement.
 - [Brightspace UI core](https://github.com/BrightspaceUI/core) - Collection of web components for building Brightspace applications.
 - [Carbon Custom Elements](https://github.com/carbon-design-system/carbon-custom-elements) - Carbon Design System variant on top of Web Components.
-- [Clarity Core Web Components](https://github.com/vmware/clarity/tree/next/packages/core) - Suite of web components for Clarity Design System.
+- [Clarity Core Web Components](https://github.com/vmware-clarity/core/tree/main/projects/core) - Suite of web components for Clarity Design System.
 - [Kor](https://github.com/eduferfer/kor) - An open source Design System and lightweight UI Component Library.
 - [Lion](https://github.com/ing-bank/lion) - Highly performant, accessible and flexible Web Components.
 - [Material Web Components](https://github.com/material-components/material-web) - Material Design implemented as Web Components.
