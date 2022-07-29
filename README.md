@@ -149,6 +149,7 @@ At Lit's core is a boilerplate-killing component base class that provides reacti
 - [Momentum UI Web Components](https://github.com/momentum-design/momentum-ui/tree/master/web-components=) - Set of UI components based on Momentum Design.
 - [Outline Design System](https://github.com/phase2/outline) - Web component based design system starter kit.
 - [Pharos Design System](https://github.com/ithaka/pharos) - JSTOR's design system to create cohesive, supportive, and beautiful experiences.
+- [Red Hat Design System](https://github.com/RedHat-UX/red-hat-design-system) - Web components for building uniform experiences with the Red Hat brand.
 - [Shoelace](https://github.com/shoelace-style/shoelace) - Collection of professionally designed UI components built on a framework-agnostic technology.
 - [Spectrum Web Components](https://github.com/adobe/spectrum-web-components) - Adobe Spectrum design language implementation built with LitElement.
 - [UI5 Web Components](https://github.com/SAP/ui5-webcomponents) - Enterprise-flavored sugar on top of native APIs!
