@@ -139,14 +139,14 @@ At Lit's core is a boilerplate-killing component base class that provides reacti
 
 ## Design Systems
 
-- [AXA Pattern Library](https://github.com/axa-ch/patterns-library) - AXA CH UI components library built with LitElement.
+- [AXA Pattern Library](https://github.com/axa-ch-webhub-cloud/pattern-library) - AXA CH UI components library built with LitElement.
 - [Brightspace UI core](https://github.com/BrightspaceUI/core) - Collection of web components for building Brightspace applications.
-- [Carbon Custom Elements](https://github.com/carbon-design-system/carbon-custom-elements) - Carbon Design System variant on top of Web Components.
+- [Carbon Web Components](https://github.com/carbon-design-system/carbon-web-components) - Carbon Design System variant on top of Web Components.
 - [Clarity Core Web Components](https://github.com/vmware-clarity/core/tree/main/projects/core) - Suite of web components for Clarity Design System.
 - [Kor](https://github.com/eduferfer/kor) - An open source Design System and lightweight UI Component Library.
 - [Lion](https://github.com/ing-bank/lion) - Highly performant, accessible and flexible Web Components.
 - [Material Web Components](https://github.com/material-components/material-web) - Material Design implemented as Web Components.
-- [Momentum UI Web Components](https://github.com/momentum-design/momentum-ui/tree/master/web-components=) - Set of UI components based on Momentum Design.
+- [Momentum UI Web Components](https://github.com/momentum-design/momentum-ui/tree/master/web-components) - Set of UI components based on Momentum Design.
 - [Outline Design System](https://github.com/phase2/outline) - Web component based design system starter kit.
 - [Pharos Design System](https://github.com/ithaka/pharos) - JSTOR's design system to create cohesive, supportive, and beautiful experiences.
 - [Red Hat Design System](https://github.com/RedHat-UX/red-hat-design-system) - Web components for building uniform experiences with the Red Hat brand.
