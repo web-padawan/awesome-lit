@@ -98,6 +98,7 @@ At Lit's core is a boilerplate-killing component base class that provides reacti
 - [Recreating The Arduino Pushbutton Using SVG And &lt;lit-element&gt;](https://www.smashingmagazine.com/2020/01/recreating-arduino-pushbutton-svg/)
 - [Routing Management with LitElement and TypeScript](https://labs.thisdot.co/blog/routing-management-with-litelement)
 - [Some things to know about Lit](https://dev.to/open-wc/some-things-to-know-about-litelement-282c)
+- [Building A Retro Draggable Web Component Using Lit](https://www.smashingmagazine.com/2022/09/building-retro-draggable-web-component-using-lit/)
 
 ## Examples
 
