@@ -102,7 +102,6 @@ At Lit's core is a boilerplate-killing component base class that provides reacti
 
 ## Examples
 
-- [Lit Basics](https://vaadin.com/docs/latest/fusion/application/lit) - Overview of general Lit concepts with some examples.
 - [Lit Native](https://github.com/rodydavis/lit-native) - Reuse Lit web components on native platforms.
 - [Lit Node Editor](https://github.com/rodydavis/lit-node-editor) - Node editor built with canvas API and simple graph data structure.
 - [Lit 3D Piano](https://github.com/rodydavis/lit-3d-piano/) - 3D Piano built with Lit, Three.js and Tone.js.
