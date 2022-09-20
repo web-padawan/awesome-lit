@@ -82,6 +82,7 @@ At Lit's core is a boilerplate-killing component base class that provides reacti
 
 ## Tutorials
 
+- [Building A Retro Draggable Web Component Using Lit](https://www.smashingmagazine.com/2022/09/building-retro-draggable-web-component-using-lit/)
 - [Building a Rich Text Editor with Lit](https://rodydavis.com/posts/lit-rich-text-editor/)
 - [Draggable DOM with Lit](https://rodydavis.com/posts/lit-draggable-dom/)
 - [Getting started with LitElement and TypeScript](https://labs.thisdot.co/blog/getting-started-with-litelement-and-typescript)
