@@ -174,6 +174,7 @@ At Lit's core is a boilerplate-killing component base class that provides reacti
 - [Playground Elements](https://github.com/PolymerLabs/playground-elements) - Serverless code experiences with web components.
 - [Stripe Elements](https://github.com/bennypowers/stripe-elements) - Custom Element Wrapper for Stripe.js v3 Elements.
 - [Titanium Elements](https://github.com/LeavittSoftware/titanium-elements) - Collection of lightweight web components used by Leavitt Group Enterprises.
+- [TrendChart Elements](https://github.com/WebLogin/trendchart-elements) - Components to generate simple charts representing trends.
 - [Umbraco UI Components](https://github.com/umbraco/Umbraco.UI) - Collection of user interface web components for Umbraco CMS.
 - [Vidstack Elements](https://github.com/vidstack/vds-elements) - Spec-compliant customizable, extensible, accessible and universal media elements.
 - [VSCode Webview Elements](https://github.com/bendera/vscode-webview-elements) - Components for creating VSCode extensions which use the Webview API.
