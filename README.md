@@ -225,7 +225,7 @@ At Lit's core is a boilerplate-killing component base class that provides reacti
 - [vscode-lit-plugin](https://marketplace.visualstudio.com/items?itemName=runem.lit-plugin) - Syntax highlighting, type checking and code completion for lit-html.
 - [es6-string-html](https://marketplace.visualstudio.com/items?itemName=Tobermory.es6-string-html) - VSCode extension which provides syntax highlighting for HTML in ES6 multiline strings.
 - [vim-html-template-literals](https://github.com/jonsmithers/vim-html-template-literals) - Syntax highlighting and indentation for HTML inside of tagged template literals.
-- [@web-types/lit](https://www.npmjs.com/package/@web-types/lit) - Attribute completion for HTML inside of tagged template literals
+- [@web-types/lit](https://www.npmjs.com/package/@web-types/lit) - Attribute completion for HTML inside of tagged template literals.
 
 ### TypeScript Plugins
 
