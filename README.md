@@ -263,6 +263,7 @@ See [lit.dev documentation](https://lit.dev/docs/getting-started/#use-bundles) f
 
 ## Videos
 
+- [Lit 3.0 Launch Event](https://www.youtube.com/watch?v=ri9FEl_hRTc)
 - [Efficient, Expressive, and Extensible HTML Templates (Polymer Summit 2017)](https://www.youtube.com/watch?v=ruql541T7gc)
 - [lit-HTML (Chrome Dev Summit 2017)](https://www.youtube.com/watch?v=Io6JjgckHbg)
 - [Lit Beta Launch Event (2021)](https://www.youtube.com/watch?v=f1j7b696L-E)
