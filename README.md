@@ -67,6 +67,7 @@ At Lit's core is a boilerplate-killing component base class that provides reacti
 - [Open Web Components Generator](https://open-wc.org/docs/development/generator/) - Starter app based on Open Web Components Recommendations.
 - [pwa-starter](https://github.com/pwa-builder/pwa-starter) - LitElement edition of the PWABuilder pwa-starter.
 - [pwa-lit-template](https://github.com/IBM/pwa-lit-template) - Build Progressive Web Applications following the modern web standards.
+- [TiniJS Starter](https://github.com/tinijs/blank-starter) - TiniJS starter template with Router, State Management and UI components.
 - [Vite Lit Element TS SASS](https://github.com/e111077/vite-lit-element-ts-sass) - Example Vite project using Lit 2, Typescript, and SASS.
 - [Vite Lit Starter](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-lit) - Lit based template preset for Vite.
 - [Vite Lit TS Starter](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-lit-ts) - Lit and TypeScript based template preset for Vite.
@@ -87,6 +88,7 @@ At Lit's core is a boilerplate-killing component base class that provides reacti
 - [Draggable DOM with Lit](https://rodydavis.com/posts/lit-draggable-dom/)
 - [Getting started with LitElement and TypeScript](https://labs.thisdot.co/blog/getting-started-with-litelement-and-typescript)
 - [Here's a minimalist no-frills Redux Toolkit & LitElement example](https://dev.to/jdvivar/here-s-a-minimalist-no-frills-redux-toolkit-litelement-example-1j91)
+- [Introducing TiniJS - A Meta Framework based on Lit](https://tinijs.dev/framework)
 - [JSON to HTML Table with Lit](https://rodydavis.com/posts/lit-html-table/)
 - [lit-html Part 1 - A solution for DOM management in web components](https://terodox.tech/handling-web-component-markup-with-lit-html/)
 - [lit-html Part 2 - Working with attributes and properties](https://terodox.tech/lit-html-part-2/)
@@ -107,6 +109,7 @@ At Lit's core is a boilerplate-killing component base class that provides reacti
 - [Lit 3D Piano](https://github.com/rodydavis/lit-3d-piano/) - 3D Piano built with Lit, Three.js and Tone.js.
 - [Open Web Components Examples](https://open-wc.org/guides/developing-components/code-examples/#lit-html-and-lit-element) - Code examples of common patterns using Lit.
 - [Polymer → Lit Migration Guide](https://kevinpschaaf.github.io/lit-migration-guide) - Code examples showing migration guidance from Polymer to Lit.
+- [TiniJS To Do Example](https://github.com/tinijs/tinijs/tree/main/examples/todo) - Build a To Do list using the TiniJS framework.
 - [Vite + RxDB + Lit](https://github.com/rodydavis/vite-rxdb-lit) - Minimal example to get RxDB running with Vite.
 
 ## Lit Labs
@@ -173,6 +176,7 @@ At Lit's core is a boilerplate-killing component base class that provides reacti
 - [One Platform Components](https://github.com/1-Platform/op-components) - Set of web components for Red Hat One Platform.
 - [Playground Elements](https://github.com/PolymerLabs/playground-elements) - Serverless code experiences with web components.
 - [Stripe Elements](https://github.com/bennypowers/stripe-elements) - Custom Element Wrapper for Stripe.js v3 Elements.
+- [TiniJS UI](https://tinijs.dev/ui) - Collection of web components with a special theming capability.
 - [Titanium Elements](https://github.com/LeavittSoftware/titanium-elements) - Collection of lightweight web components used by Leavitt Group Enterprises.
 - [TrendChart Elements](https://github.com/WebLogin/trendchart-elements) - Components to generate simple charts representing trends.
 - [Umbraco UI Components](https://github.com/umbraco/Umbraco.UI) - Collection of user interface web components for Umbraco CMS.
