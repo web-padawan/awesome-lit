@@ -201,7 +201,8 @@ At Lit's core is a boilerplate-killing component base class that provides reacti
 - [`<rapi-doc>`](https://github.com/mrin9/RapiDoc) - Web Component to view OpenAPI 3.0 & Swagger 2.0 Spec.
 - [`<round-slider>`](https://github.com/thomasloven/round-slider) - Simple round slider web component built with Lit.
 - [`<stl-part-viewer>`](https://github.com/justinribeiro/stl-part-viewer) - LitElement web component that utilizes Three.js to display an STL model file.
-
+- [`Tasnstack Table`](https://tanstack.com/table/latest/docs/introduction) - Headless UI for building powerful tables & datagrids with Lit.
+- 
 ## Tools
 
 ### Building
