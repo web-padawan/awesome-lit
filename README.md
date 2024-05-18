@@ -206,9 +206,9 @@ At Lit's core is a boilerplate-killing component base class that provides reacti
 
 ## Meta Frameworks
 
-## Tools
-
 - [Gracile](https://gracile.js.org/) - Thin, full-stack meta-framework. Powered by Vite and Lit SSR.
+
+## Tools
 
 ### Building
 
