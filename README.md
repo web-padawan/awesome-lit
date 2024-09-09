@@ -196,6 +196,7 @@ At Lit's core is a boilerplate-killing component base class that provides reacti
 - [`<json-viewer>`](https://github.com/alenaksu/json-viewer) - Web Component to visualize JSON data in a tree view.
 - [`<light-gallery>`](https://github.com/sachinchoolur/lightGallery/tree/master/lightgallery-lit) - Full featured JavaScript image and video gallery for Lit.
 - [`<lit-datatable>`](https://github.com/DoubleTrade/lit-datatable) - Material Design implementation of a data table, powered by LitElement.
+- [`<lit-image-cropper>`](https://github.com/andy-austin/lit-image-cropper) - Fast and lightweight image cropper component.
 - [`<lottie-player>`](https://github.com/LottieFiles/lottie-player) - Web Component for easily embedding and playing Lottie animations.
 - [`<model-viewer>`](https://github.com/GoogleWebComponents/model-viewer) - A web component for rendering interactive 3D models.
 - [`<rapi-doc>`](https://github.com/mrin9/RapiDoc) - Web Component to view OpenAPI 3.0 & Swagger 2.0 Spec.
