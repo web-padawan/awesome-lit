@@ -134,7 +134,6 @@ At Lit's core is a boilerplate-killing component base class that provides reacti
 - [`lit-element-state-decoupler`](https://www.npmjs.com/package/lit-element-state-decoupler) - Utility for state handling outside of the component for LitElement.
 - [`lit-redux-router`](https://www.npmjs.com/package/lit-redux-router) - Declarative way of routing for Lit powered by pwa-helpers and Redux.
 - [`lit-svelte-stores`](https://www.npmjs.com/package/lit-svelte-stores) - Lit controller to use svelte stores as state management.
-- [`lit-vaadin-helpers`](https://www.npmjs.com/package/lit-vaadin-helpers) - Helpers for using Vaadin web components with Lit 2.
 - [`ullr`](https://github.com/aggre/ullr) - Build Web Components with functional programming using Lit.
 
 ## Design Systems
@@ -153,6 +152,7 @@ At Lit's core is a boilerplate-killing component base class that provides reacti
 - [Red Hat Design System](https://github.com/RedHat-UX/red-hat-design-system) - Web components for building uniform experiences with the Red Hat brand.
 - [Spectrum Web Components](https://github.com/adobe/spectrum-web-components) - Adobe Spectrum design language implementation built with LitElement.
 - [UI5 Web Components](https://github.com/SAP/ui5-webcomponents) - Enterprise-flavored sugar on top of native APIs!
+- [Vaadin web components](https://github.com/vaadin/web-components) - A set of high-quality web components for business web applications.
 - [Web Awesome](https://github.com/shoelace-style/webawesome) - The open source library of web components from Font Awesome
 
 ## Component Libraries
