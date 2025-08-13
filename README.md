@@ -20,6 +20,7 @@ At Lit's core is a boilerplate-killing component base class that provides reacti
 - [Design Systems](#design-systems)
 - [Component Libraries](#component-libraries)
 - [Standalone Components](#standalone-components)
+- [Meta Frameworks](#meta-frameworks)
 - [Tools](#tools)
   - [Building](#building)
   - [Linting](#linting)
@@ -58,6 +59,7 @@ At Lit's core is a boilerplate-killing component base class that provides reacti
 
 ## Starter Templates
 
+- [Gracile Starters](https://github.com/gracile-web/starter-projects) - Gracile full-stack starter projects (SSR/SSG).
 - [LitElement JavaScript starter](https://github.com/lit/lit-element-starter-js) - Sample component using LitElement with JavaScript.
 - [LitElement TypeScript starter](https://github.com/lit/lit-element-starter-ts) - Sample component using LitElement with TypeScript.
 - [hello-web-components](https://github.com/fernandopasik/hello-web-components) - Simple starter web component written in TypeScript using Lit.
@@ -203,6 +205,10 @@ At Lit's core is a boilerplate-killing component base class that provides reacti
 - [`<rapi-doc>`](https://github.com/mrin9/RapiDoc) - Web Component to view OpenAPI 3.0 & Swagger 2.0 Spec.
 - [`<round-slider>`](https://github.com/thomasloven/round-slider) - Simple round slider web component built with Lit.
 - [`<stl-part-viewer>`](https://github.com/justinribeiro/stl-part-viewer) - LitElement web component that utilizes Three.js to display an STL model file.
+
+## Meta Frameworks
+
+- [Gracile](https://gracile.js.org/) - Thin, full-stack meta-framework. Powered by Vite and Lit SSR.
 
 ## Tools
 
