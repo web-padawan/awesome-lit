@@ -133,6 +133,7 @@ At Lit's core is a boilerplate-killing component base class that provides reacti
 - [`dark-theme-utils`](https://www.npmjs.com/package/dark-theme-utils) - Useful utilities for dark mode built with Web Components.
 - [`exome`](https://www.npmjs.com/package/exome) - State manager for deeply nested states that supports Lit.
 - [`pure-lit`](https://github.com/MatthiasKainer/pure-lit) - Register your Lit elements as pure functions.
+- [`lit-composition`](https://www.npmjs.com/package/lit-composition) - Composition API for creating web components with Lit.
 - [`lit-element-effect`](https://www.npmjs.com/package/lit-element-effect) - Effect hooks for LitElement.
 - [`lit-element-state-decoupler`](https://www.npmjs.com/package/lit-element-state-decoupler) - Utility for state handling outside of the component for LitElement.
 - [`lit-redux-router`](https://www.npmjs.com/package/lit-redux-router) - Declarative way of routing for Lit powered by pwa-helpers and Redux.
