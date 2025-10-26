@@ -86,18 +86,18 @@ At Lit's core is a boilerplate-killing component base class that provides reacti
 ## Tutorials
 
 - [Building A Retro Draggable Web Component Using Lit](https://www.smashingmagazine.com/2022/09/building-retro-draggable-web-component-using-lit/)
-- [Building a Rich Text Editor with Lit](https://rodydavis.com/posts/lit-rich-text-editor/)
-- [Draggable DOM with Lit](https://rodydavis.com/posts/lit-draggable-dom/)
+- [Building a Rich Text Editor with Lit](https://rodydavis.com/posts/lit-rich-text-editor)
+- [Draggable DOM with Lit](https://rodydavis.com/posts/lit-draggable-dom)
 - [Getting started with LitElement and TypeScript](https://labs.thisdot.co/blog/getting-started-with-litelement-and-typescript)
 - [Here's a minimalist no-frills Redux Toolkit & LitElement example](https://dev.to/jdvivar/here-s-a-minimalist-no-frills-redux-toolkit-litelement-example-1j91)
-- [JSON to HTML Table with Lit](https://rodydavis.com/posts/lit-html-table/)
+- [JSON to HTML Table with Lit](https://rodydavis.com/posts/lit-html-table)
 - [lit-html Part 1 - A solution for DOM management in web components](https://terodox.tech/handling-web-component-markup-with-lit-html/)
 - [lit-html Part 2 - Working with attributes and properties](https://terodox.tech/lit-html-part-2/)
-- [Lit and Figma](https://rodydavis.com/posts/figma-and-lit/)
-- [Lit and Flutter](https://rodydavis.com/posts/flutter-and-lit/)
-- [Lit and Monaco Editor](https://rodydavis.com/posts/lit-monaco-editor/)
-- [Lit and VSCode Extensions](https://rodydavis.com/posts/lit-vscode-extension/)
-- [Lit Sheet Music](https://rodydavis.com/posts/lit-sheet-music/)
+- [Lit and Figma](https://rodydavis.com/posts/figma-and-lit)
+- [Lit and Flutter](https://rodydavis.com/posts/flutter-and-lit)
+- [Lit and Monaco Editor](https://rodydavis.com/posts/lit-monaco-editor)
+- [Lit and VSCode Extensions](https://rodydavis.com/posts/lit-vscode-extension)
+- [Lit Sheet Music](https://rodydavis.com/posts/lit-sheet-music)
 - [Navigation Lifecycle using Vaadin Router, LitElement and TypeScript](https://labs.thisdot.co/blog/navigation-lifecycle-using-vaadin-router-litelement-and-typescript)
 - [Recreating The Arduino Pushbutton Using SVG And &lt;lit-element&gt;](https://www.smashingmagazine.com/2020/01/recreating-arduino-pushbutton-svg/)
 - [Routing Management with LitElement and TypeScript](https://labs.thisdot.co/blog/routing-management-with-litelement)
@@ -107,7 +107,7 @@ At Lit's core is a boilerplate-killing component base class that provides reacti
 
 - [Lit Native](https://github.com/rodydavis/lit-native) - Reuse Lit web components on native platforms.
 - [Lit Node Editor](https://github.com/rodydavis/lit-node-editor) - Node editor built with canvas API and simple graph data structure.
-- [Lit 3D Piano](https://github.com/rodydavis/lit-3d-piano/) - 3D Piano built with Lit, Three.js and Tone.js.
+- [Lit 3D Piano](https://github.com/rodydavis/lit-3d-piano) - 3D Piano built with Lit, Three.js and Tone.js.
 - [Open Web Components Examples](https://open-wc.org/guides/developing-components/code-examples/#lit-html-and-lit-element) - Code examples of common patterns using Lit.
 - [Polymer → Lit Migration Guide](https://kevinpschaaf.github.io/lit-migration-guide) - Code examples showing migration guidance from Polymer to Lit.
 - [Vite + RxDB + Lit](https://github.com/rodydavis/vite-rxdb-lit) - Minimal example to get RxDB running with Vite.
