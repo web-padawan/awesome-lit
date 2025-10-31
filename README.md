@@ -205,6 +205,7 @@ At Lit's core is a boilerplate-killing component base class that provides reacti
 - [`<lottie-player>`](https://github.com/LottieFiles/lottie-player) - Web Component for easily embedding and playing Lottie animations.
 - [`<model-viewer>`](https://github.com/GoogleWebComponents/model-viewer) - A web component for rendering interactive 3D models.
 - [`<rapi-doc>`](https://github.com/mrin9/RapiDoc) - Web Component to view OpenAPI 3.0 & Swagger 2.0 Spec.
+- [`<responsive-image>`](https://github.com/simonihmig/responsive-image) - Web component for rendering responsive images.
 - [`<round-slider>`](https://github.com/thomasloven/round-slider) - Simple round slider web component built with Lit.
 - [`<stl-part-viewer>`](https://github.com/justinribeiro/stl-part-viewer) - LitElement web component that utilizes Three.js to display an STL model file.
 
