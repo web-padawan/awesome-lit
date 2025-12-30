@@ -161,6 +161,7 @@ At Lit's core is a boilerplate-killing component base class that provides reacti
 
 ## Component Libraries
 
+- [AgnosticUI](https://github.com/AgnosticUI/agnosticui) - A CLI-based UI component library that copies Lit web components directly into your project. Full React and Vue wrappers for native framework experience.
 - [Apollo Elements](https://github.com/apollo-elements/apollo-elements) - Custom elements meet Apollo GraphQL.
 - [Blackstone UI](https://github.com/kjantzer/bui) - Web components for creating interfaces built with lit-html and LitElement.
 - [Chartjs Web Components](https://github.com/fsx950223/chartjs-web-components) - Web components for chartjs.
