@@ -173,6 +173,7 @@ At Lit's core is a boilerplate-killing component base class that provides reacti
 - [Fusion Web Components](https://github.com/equinor/fusion-web-components) - Ser of web components used by Equinor Fusion.
 - [Ignite UI Web Components](https://github.com/IgniteUI/igniteui-webcomponents) - Complete library of UI components from Infragistics.
 - [LRNWebComponents](https://github.com/elmsln/lrnwebcomponents) - ELMS:LN produced web components for any project.
+- [M3E](https://github.com/matraic/m3e) - Web Components implementing Material 3 Expressive.
 - [Medblocks UI](https://github.com/medblocks/medblocks-ui) - Web Components for rapid development of openEHR and FHIR systems.
 - [Microsoft Graph Toolkit](https://github.com/microsoftgraph/microsoft-graph-toolkit) - Collection of web components for the Microsoft Graph.
 - [Mutation testing elements](https://github.com/stryker-mutator/mutation-testing-elements) - A schema for mutation testing results with the web components to visualize it.
