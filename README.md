@@ -126,7 +126,7 @@ At Lit's core is a boilerplate-killing component base class that provides reacti
 - [`@lit-app/state`](https://www.npmjs.com/package/@lit-app/state) - Lean and simple global State management for Lit 2.
 - [`@shoelace-style/localize`](https://github.com/shoelace-style/localize) - A micro library for localizing custom elements, providing directives for Lit.
 - [`@stefanholzapfel/lit-state`](https://www.npmjs.com/package/@stefanholzapfel/lit-state) - Lightweight reactive state management for Lit 2.
-- [`@tanstack/lit-table`]([https://tanstack.com/table/latest/docs/introduction](https://tanstack.com/table/latest/docs/framework/lit/lit-table) - Headless UI for building powerful tables & datagrids with Lit.
+- [`@tanstack/lit-table`](https://tanstack.com/table/latest/docs/framework/lit/lit-table) - Headless UI for building powerful tables & datagrids with Lit.
 - [`@vaadin/form`](https://www.npmjs.com/package/@vaadin/form) - Set of utilities for building forms with TypeScript and Lit.
 - [`dark-theme-utils`](https://www.npmjs.com/package/dark-theme-utils) - Useful utilities for dark mode built with Web Components.
 - [`exome`](https://www.npmjs.com/package/exome) - State manager for deeply nested states that supports Lit.
