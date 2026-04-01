@@ -72,6 +72,7 @@ At Lit's core is a boilerplate-killing component base class that provides reacti
 - [Vite Lit Element TS SASS](https://github.com/e111077/vite-lit-element-ts-sass) - Example Vite project using Lit 2, Typescript, and SASS.
 - [Vite Lit Starter](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-lit) - Lit based template preset for Vite.
 - [Vite Lit TS Starter](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-lit-ts) - Lit and TypeScript based template preset for Vite.
+- [Vite Lit + Intlayer](https://github.com/aymericzip/intlayer-vite-lit-template) - Per-component i18n solution for app and design-systems.
 - [Vite Lit + Tailwind](https://github.com/lloydrichards/base_lit-with-tailwind) - Modified Vite + Lit starter to use Tailwind v4.
 
 ## Codelabs
@@ -110,6 +111,7 @@ At Lit's core is a boilerplate-killing component base class that provides reacti
 - [Lit 3D Piano](https://github.com/rodydavis/lit-3d-piano) - 3D Piano built with Lit, Three.js and Tone.js.
 - [Open Web Components Examples](https://open-wc.org/guides/developing-components/code-examples/#lit-html-and-lit-element) - Code examples of common patterns using Lit.
 - [Polymer → Lit Migration Guide](https://kevinpschaaf.github.io/lit-migration-guide) - Code examples showing migration guidance from Polymer to Lit.
+- [Vite + Intlayer i18n + Lit](https://github.com/aymericzip/intlayer-vite-lit-template) - Minimal example of lit using Intlayer i18n
 - [Vite + RxDB + Lit](https://github.com/rodydavis/vite-rxdb-lit) - Minimal example to get RxDB running with Vite.
 
 ## Lit Labs
