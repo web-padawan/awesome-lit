@@ -6,6 +6,7 @@
 
 At Lit's core is a boilerplate-killing component base class that provides reactive state, scoped styles, and a declarative template system that's tiny, fast and expressive.
 
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts for Lit web component workflow orchestration, automated frontend management, and multi-agent coordination. MIT licensed.
 ## Contents
 
 - [General resources](#general-resources)
