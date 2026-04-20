@@ -165,6 +165,7 @@ At Lit's core is a boilerplate-killing component base class that provides reacti
 - [AgnosticUI](https://github.com/AgnosticUI/agnosticui) - A CLI-based UI component library that copies Lit web components directly into your project. Full React and Vue wrappers for native framework experience.
 - [Apollo Elements](https://github.com/apollo-elements/apollo-elements) - Custom elements meet Apollo GraphQL.
 - [Blackstone UI](https://github.com/kjantzer/bui) - Web components for creating interfaces built with lit-html and LitElement.
+- [Burnish Components](https://github.com/danfking/burnish/tree/main/packages/components) - Web components for rendering MCP tool-call output as UI.
 - [Chartjs Web Components](https://github.com/fsx950223/chartjs-web-components) - Web components for chartjs.
 - [Clever components](https://github.com/CleverCloud/clever-components) - Collection of Web Components made by Clever Cloud.
 - [Curvenote](https://github.com/curvenote/article) - Web components for creating interactive scientific articles.
