@@ -180,6 +180,7 @@ At Lit's core is a boilerplate-killing component base class that provides reacti
 - [Microsoft Graph Toolkit](https://github.com/microsoftgraph/microsoft-graph-toolkit) - Collection of web components for the Microsoft Graph.
 - [Mutation testing elements](https://github.com/stryker-mutator/mutation-testing-elements) - A schema for mutation testing results with the web components to visualize it.
 - [One Platform Components](https://github.com/1-Platform/op-components) - Set of web components for Red Hat One Platform.
+- [PatternFly Elements](https://github.com/patternfly/patternfly-elements) - Lightweight web components based on the PatternFly design system.
 - [Playground Elements](https://github.com/PolymerLabs/playground-elements) - Serverless code experiences with web components.
 - [Stripe Elements](https://github.com/bennypowers/stripe-elements) - Custom Element Wrapper for Stripe.js v3 Elements.
 - [Titanium Elements](https://github.com/LeavittSoftware/titanium-elements) - Collection of lightweight web components used by Leavitt Group Enterprises.
@@ -227,6 +228,7 @@ At Lit's core is a boilerplate-killing component base class that provides reacti
 - [esbuild-plugin-lit-css](https://www.npmjs.com/package/esbuild-plugin-lit-css) - ESBuild plugin to import css files as JavaScript tagged-template literal objects.
 - [lit-css-loader](https://www.npmjs.com/package/lit-css-loader) - Webpack loader to import css files as JavaScript tagged-template literal objects.
 - [lit-scss-loader](https://www.npmjs.com/package/lit-scss-loader) - Webpack loader to import the CSS/SCSS into Lit components.
+- [Mappa](https://github.com/bennypowers/mappa) - Fast import map generator for ES modules, resolving bare specifiers from package.json dependencies.
 - [rollup-plugin-lit-css](https://www.npmjs.com/package/rollup-plugin-lit-css) - Rollup plugin to import css files as JavaScript tagged-template literal objects.
 - [rollup-plugin-minify-html-literals](https://www.npmjs.com/package/rollup-plugin-minify-html-literals) - Rollup plugin to minify HTML in tagged template strings.
 - [rollup-plugin-postcss-lit](https://www.npmjs.com/package/rollup-plugin-postcss-lit) - Rollup plugin to load PostCSS-processed stylesheets in Lit components.
@@ -253,6 +255,8 @@ At Lit's core is a boilerplate-killing component base class that provides reacti
 ### Other Tools
 
 - [@custom-elements-manifest/analyzer](https://www.npmjs.com/package/@custom-elements-manifest/analyzer) - CLI tool to generate API documentation for web components.
+- [Asimonim](https://github.com/bennypowers/asimonim) - Design tokens parser, validator, and language server for the W3C DTCG specification.
+- [cem](https://github.com/bennypowers/cem) - CLI multitool for generating, validating, and querying Custom Elements Manifests, with built-in LSP and MCP servers.
 - [Storybook for web-components](https://www.npmjs.com/package/@storybook/web-components) - UI development environment for plain web-component snippets.
 - [web-components-codemods](https://www.npmjs.com/package/web-components-codemods) - Codemods for Web Components compatible with lit-html template literals.
 - [Web Component DevTools](https://github.com/Matsuuu/web-component-devtools) - Browser extension for developers working with Web Components.
