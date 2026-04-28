@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/web-padawan-awesome-lit-badge.png)](https://mseep.ai/app/web-padawan-awesome-lit)
+
 # Awesome Lit [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > A curated list of awesome Lit resources.
