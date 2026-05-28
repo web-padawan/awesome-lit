@@ -181,7 +181,7 @@ At Lit's core is a boilerplate-killing component base class that provides reacti
 - [Mutation testing elements](https://github.com/stryker-mutator/mutation-testing-elements) - A schema for mutation testing results with the web components to visualize it.
 - [One Platform Components](https://github.com/1-Platform/op-components) - Set of web components for Red Hat One Platform.
 - [PatternFly Elements](https://github.com/patternfly/patternfly-elements) - Lightweight web components based on the PatternFly design system.
-- [Peacock](https://github.com/redvars/peacock) - A light weight customisable web component built using Lit.
+- [Peacock](https://github.com/redvars/peacock) - A lightweight, customizable web component library built with Lit.
 - [Playground Elements](https://github.com/PolymerLabs/playground-elements) - Serverless code experiences with web components.
 - [Stripe Elements](https://github.com/bennypowers/stripe-elements) - Custom Element Wrapper for Stripe.js v3 Elements.
 - [Titanium Elements](https://github.com/LeavittSoftware/titanium-elements) - Collection of lightweight web components used by Leavitt Group Enterprises.
