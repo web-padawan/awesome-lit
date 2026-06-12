@@ -209,6 +209,7 @@ At Lit's core is a boilerplate-killing component base class that provides reacti
 - [`<lit-image-cropper>`](https://github.com/andy-austin/lit-image-cropper) - Fast and lightweight image cropper component.
 - [`<lottie-player>`](https://github.com/LottieFiles/lottie-player) - Web Component for easily embedding and playing Lottie animations.
 - [`<model-viewer>`](https://github.com/GoogleWebComponents/model-viewer) - A web component for rendering interactive 3D models.
+- [`<phantom-ui>`](https://github.com/Aejkatappaja/phantom-ui) - Structure-aware shimmer skeleton loader that measures the real DOM to generate overlay blocks automatically.
 - [`<rapi-doc>`](https://github.com/mrin9/RapiDoc) - Web Component to view OpenAPI 3.0 & Swagger 2.0 Spec.
 - [`<responsive-image>`](https://github.com/simonihmig/responsive-image) - Web component for rendering responsive images.
 - [`<round-slider>`](https://github.com/thomasloven/round-slider) - Simple round slider web component built with Lit.
