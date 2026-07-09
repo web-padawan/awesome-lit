@@ -197,6 +197,7 @@ At Lit's core is a boilerplate-killing component base class that provides reacti
 
 - [`<api-viewer>`](https://github.com/web-padawan/api-viewer-element) - API documentation and live playground for Web Components.
 - [`<app-datepicker>`](https://github.com/motss/app-datepicker) - Datepicker element built with LitElement and Material Design 2.
+- [`<boardstate-view>`](https://github.com/100yenadmin/boardstate) - Agent-composable dashboard rendered from one validated JSON document: drag & drop grid, builtin widgets, chat with a board-building AI, sandboxed custom widgets.
 - [`<burgton-button>`](https://github.com/boguz/burgton-button) - Simple to use, customizable and accessible burger-button element.
 - [`<code-block>`](https://github.com/justinribeiro/code-block) - Web component that displays colorfully formatted code with Prism.js and LitElement.
 - [`<codesandbox-button>`](https://github.com/bennypowers/codesandbox-button) - Custom Element that shows a CodeSandbox demo when you click on it.
