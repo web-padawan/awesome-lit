@@ -141,6 +141,7 @@ At Lit's core is a boilerplate-killing component base class that provides reacti
 - [`lit-intlayer`](https://intlayer.org/doc/environment/vite-and-lit) - Making a lit application multilingual using Intlayer.
 - [`lit-redux-router`](https://www.npmjs.com/package/lit-redux-router) - Declarative way of routing for Lit powered by pwa-helpers and Redux.
 - [`lit-svelte-stores`](https://www.npmjs.com/package/lit-svelte-stores) - Lit controller to use svelte stores as state management.
+- [`lit-ui-router`](https://www.npmjs.com/package/lit-ui-router) - State-based routing for Lit powered by UI-Router.
 - [`ullr`](https://github.com/aggre/ullr) - Build Web Components with functional programming using Lit.
 
 ## Design Systems
