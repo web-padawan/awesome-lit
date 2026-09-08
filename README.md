@@ -18,6 +18,7 @@ At Lit's core is a boilerplate-killing component base class that provides reacti
 - [Lit Labs](#lit-labs)
 - [Extensions](#extensions)
 - [Design Systems](#design-systems)
+- [Form Libraries](#form-libraries)
 - [Component Libraries](#component-libraries)
 - [Standalone Components](#standalone-components)
 - [Meta Frameworks](#meta-frameworks)
@@ -161,6 +162,9 @@ At Lit's core is a boilerplate-killing component base class that provides reacti
 - [UI5 Web Components](https://github.com/SAP/ui5-webcomponents) - Enterprise-flavored sugar on top of native APIs!
 - [Vaadin web components](https://github.com/vaadin/web-components) - A set of high-quality web components for business web applications.
 - [Web Awesome](https://github.com/shoelace-style/webawesome) - The open source library of web components from Font Awesome
+
+## Form Libraries
+- [Kin Form](https://kintools.dev/form) - A framework-agnostic form state library for TypeScript. Small, fast, simple, yet feature-rich.
 
 ## Component Libraries
 
