@@ -262,6 +262,7 @@ At Lit's core is a boilerplate-killing component base class that provides reacti
 - [@custom-elements-manifest/analyzer](https://www.npmjs.com/package/@custom-elements-manifest/analyzer) - CLI tool to generate API documentation for web components.
 - [Asimonim](https://github.com/bennypowers/asimonim) - Design tokens parser, validator, and language server for the W3C DTCG specification.
 - [cem](https://github.com/bennypowers/cem) - CLI multitool for generating, validating, and querying Custom Elements Manifests, with built-in LSP and MCP servers.
+- [Lit Inspector](https://chromewebstore.google.com/detail/lit-inspector/faojnglflincboehhgkjgehnapjgiieh) - Chrome DevTools extension for inspecting Lit components: component tree, reactive properties, update counts, and a lifecycle timeline.
 - [Storybook for web-components](https://www.npmjs.com/package/@storybook/web-components) - UI development environment for plain web-component snippets.
 - [web-components-codemods](https://www.npmjs.com/package/web-components-codemods) - Codemods for Web Components compatible with lit-html template literals.
 - [Web Component DevTools](https://github.com/Matsuuu/web-component-devtools) - Browser extension for developers working with Web Components.
