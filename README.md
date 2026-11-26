@@ -205,6 +205,7 @@ At Lit's core is a boilerplate-killing component base class that provides reacti
 - [`<burgton-button>`](https://github.com/boguz/burgton-button) - Simple to use, customizable and accessible burger-button element.
 - [`<code-block>`](https://github.com/justinribeiro/code-block) - Web component that displays colorfully formatted code with Prism.js and LitElement.
 - [`<codesandbox-button>`](https://github.com/bennypowers/codesandbox-button) - Custom Element that shows a CodeSandbox demo when you click on it.
+- [`<connected-chat>` (Alice&Bot)](https://github.com/uriva/alice-and-bot) - End-to-end encrypted chat UI web components (`<connected-chat>`, `<chat-box>`) built with Lit for AI agents and humans, with markdown, voice messages, attachments, and embeddable widgets.
 - [`<editor-container>`](https://github.com/toeverything/blocksuite) - Block based editor, designed for general-purpose collaborative applications.
 - [`<granite-qrcode-generator>`](https://github.com/LostInBrittany/granite-qrcode-generator) - Custom element to generate and render QR Codes, using qr.js library.
 - [`<helium-animated-pages>`](https://github.com/alangdm/helium-animated-pages) - Web component for creating CSS animations built with Lit.
